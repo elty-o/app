@@ -1,0 +1,90 @@
+name: flutter_application_1
+description: "A new Flutter project."
+publish_to: "none"
+version: 3.0.2
+
+environment:
+  sdk: ">=3.2.4 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  carousel_slider: ^4.0.0
+  http: ^1.2.0
+  webview_flutter: ^3.0.4
+  crypto: ^3.0.1
+  email_validator: ^2.1.17
+  intl: ^0.18.1
+  path_provider: ^2.1.2
+  url_launcher: ^6.1.14
+  flutter_localization: ^0.1.7
+  sqflite: ^2.3.0
+  flutter_pdfview: ^1.2.7
+  package_info_plus: ^5.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: true
+  image_path: "assets/icon/ic_launcher.png"
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - assets/AgricultureLand.png
+    - assets/ArtsCultureSport.png
+    - assets/BirthParrenting.png
+    - assets/BusinessEconomics.png
+    - assets/CitizenshipImmigration.png
+    - assets/ConsumerProtection.png
+    - assets/Education.png
+    - assets/EmploymentLabour.png
+    - assets/Environment.png
+    - assets/Health.png
+    - assets/Housing.png
+    - assets/LegalDefence.png
+    - assets/MoneyTax.png
+    - assets/RetirementDeath.png
+    - assets/SocialServices.png
+    - assets/Transport.png
+    - assets/banners/eservices.gov.za_mainbanner_1.jpg
+    - assets/banners/eservices.gov.za_mainbanner_2.jpg
+    - assets/banners/eservices.gov.za_mainbanner_3.jpg
+    - assets/logo/SITA.png
+    - assets/appbar/appbar.png
+    - assets/appbar/ndp.png
+    - assets/appbar/saflag.png
+    - assets/ads/ad1.jpg
+    - assets/ads/ad2.jpg
+    - assets/icon/ic_launcher.png
+    - assets/kzn.jpg
+    - assets/bg.jpg
+    - assets/footer.gif
+    - assets/footer.png
+    - assets/wildlife.png
+    - assets/smallbusiness.png
+    - assets/sitajobs.jpg
+    - assets/sace.jpg
+    - assets/logout.jpg
+    - assets/latest/destea.jpg
+    - assets/latest/permit.jpg
+    - assets/latest/pglum.jpg
+    - assets/forgotpassword.jpg
+    - assets/ads/ad3.jpg
+    - assets/ads/ad4.jpg
+    - assets/feature_graphic.jpg
+
+  fonts:
+    - family: Gill
+      fonts:
+        - asset: fonts/GIL_____.TTF
+        - asset: fonts/GILB____.TTF
+        - asset: fonts/GILBI___.TTF
+        - asset: fonts/GILC____.TTF
+        - asset: fonts/GILI____.TTF
+        - asset: fonts/GLSNECB.TTF

@@ -1,0 +1,357 @@
+{
+    "@@locale": "ur",
+    "trending": "رجحان ساز",
+    "@trending": {
+        "description": "ٹرینڈنگ ای سروسز"
+    },
+    "latest": "تازہ ترین",
+    "@latest": {
+        "description": "تازہ ترین ای سروسز"
+    },
+    "drawer_not_logged_in": "آپ لاگ ان نہیں ہیں۔",
+    "@drawer_not_logged_in": {
+        "description": "برائے مہربانی لاگ ان کریں"
+    },
+    "contact": "رابطہ کریں۔",
+    "@contact": {
+        "description": "رابطہ نمبرز"
+    },
+    "news_feeds": "نیوز فیڈز",
+    "@news_feeds": {
+        "description": "تازہ ترین خبریں حاصل کریں۔"
+    },
+    "legal_documents": "قانونی کاغذات",
+    "@legal_documents": {
+        "description": "قانونی دستاویزات پڑھیں"
+    },
+    "feedback": "تاثرات",
+    "@feedback": {
+        "description": "ہمیں اپنے تجربے کے بارے میں رائے دیں۔"
+    },
+    "settings": "ترتیبات",
+    "@settings": {
+        "description": "ترتیبات"
+    },
+    "login": "لاگ ان کریں",
+    "@login": {
+        "description": "لاگ ان کریں"
+    },
+    "logout": "لاگ آوٹ",
+    "@logout": {
+        "description": "لاگ آوٹ"
+    },
+    "about_us": "ہمارے بارے میں",
+    "@about_us": {
+        "description": "ہمارے بارے میں"
+    },
+    "about_us_legal_documents": "قانونی کاغذات",
+    "@about_us_legal_documents": {
+        "description": "قانونی کاغذات"
+    },
+    "about_us_services_privacy_policy": "ای سروسز کی رازداری کی پالیسی",
+    "@about_us_services_privacy_policy": {
+        "description": "ای سروسز کی رازداری کی پالیسی"
+    },
+    "about_us_terms_and_conditions": "شرائط و ضوابط",
+    "@about_us_terms_and_conditions": {
+        "description": "شرائط و ضوابط"
+    },
+    "about_us_paia": "معلومات تک رسائی کا فروغ",
+    "@about_us_paia": {
+        "description": "معلومات تک رسائی کا فروغ"
+    },
+    "about_us_sita_privacy": "SITA رازداری کی پالیسی",
+    "@about_us_sita_privacy": {
+        "description": "SITA رازداری کی پالیسی"
+    },
+    "home": "گھر",
+    "@home": {
+        "description": "گھر"
+    },
+    "categories": "اقسام",
+    "@categories": {
+        "description": "اقسام"
+    },
+    "about_us_header": "ہمارے بارے میں",
+    "@about_use_header": {
+        "description": "ہمارے بارے میں"
+    },
+    "about_us_content_header": "جنوبی افریقہ کی ای-سروسز ایپ متعارف کرائی جا رہی ہے - بغیر کسی رکاوٹ کے حکومتی مشغولیت کے لیے آپ کا ڈیجیٹل گیٹ وے!",
+    "about_us_paragraph_one": "جنوبی افریقی ای-سروسز ایپ ایک ایسے مستقبل کا تصور کرتی ہے جہاں ہر شہری اپنی انگلی پر ہموار، موثر اور ذاتی نوعیت کی سرکاری خدمات کا تجربہ کرتا ہے۔ ",
+    "about_us_paragraph_two": "ہم اپنی خدمات کی موجودہ لائن اپ کے تعارف کا اعلان کرتے ہوئے پرجوش ہیں، جس میں پیدائش بھی شامل ہے۔",
+    "news_feeds_header": "نیوز فیڈز",
+    "@news_feeds_header": {
+        "description": "نیوز فیڈز"
+    },
+    "news_feeds_error": "اعداد و شمار دستیاب نہیں",
+    "@news_feeds_error": {
+        "description": "اعداد و شمار دستیاب نہیں"
+    },
+    "not_logged_in": "آپ لاگ ان نہیں ہیں۔",
+    "@not_logged_in": {
+        "description": "آپ لاگ ان نہیں ہیں۔"
+    },
+    "contact_us_header": "ہم سے رابطہ کریں۔",
+    "@contact_us_header": {
+        "description": "ہم سے رابطہ کریں۔"
+    },
+    "emergency_contact_us_header": "ہنگامی رابطے",
+    "@emergency_contact_us_header": {
+        "description": "ہنگامی رابطے"
+    },
+    "e_services_phone": "فون",
+    "@e_services_phone": {
+        "description": "فون"
+    },
+    "e_services_email": "ای میل",
+    "@e_services_email": {
+        "description": "ای میل"
+    },
+    "police": "پولیس",
+    "@police": {
+        "description": "پولیس"
+    },
+    "ambulance": "ایمبولینس",
+    "@ambulance": {
+        "description": "ایمبولینس"
+    },
+    "fire_brigade": "فائر بریگیڈ",
+    "@fire_brigade": {
+        "description": "فائر بریگیڈ"
+    },
+    "satisfaction_survey": "اطمینان کا سروے",
+    "@satisfaction_survey": {
+        "description": "اطمینان کا سروے"
+    },
+    "q_one": "Q1: آپ ایپ کے انٹرفیس کو نیویگیٹ کرنے کے اپنے ابتدائی تجربے کی درجہ بندی کیسے کریں گے؟",
+    "@q_one": {
+        "description": "آپ ایپ کے انٹرفیس کو نیویگیٹ کرنے کے اپنے ابتدائی تجربے کی درجہ بندی کیسے کریں گے؟"
+    },
+    "q_two": "Q2: آپ ایپ کی خصوصیات کو مؤثر طریقے سے استعمال کرنے کی اپنی صلاحیت پر کتنا پر اعتماد محسوس کرتے ہیں؟",
+    "@q_two": {
+        "description": "آپ ایپ کی خصوصیات کو مؤثر طریقے سے استعمال کرنے کی اپنی صلاحیت پر کتنا پر اعتماد محسوس کرتے ہیں؟"
+    },
+    "q_three": "Q3: مجموعی طور پر، آپ ایپ کی کارکردگی اور ردعمل سے کتنے مطمئن ہیں؟",
+    "@q_three": {
+        "description": "مجموعی طور پر، آپ ایپ کی کارکردگی اور ردعمل سے کتنے مطمئن ہیں؟"
+    },
+    "q_four": "Q4: آپ کو کس حد تک ایپ کی فعالیتیں بدیہی اور سمجھنے میں آسان لگتی ہیں؟",
+    "@q_four": {
+        "description": "آپ کو کس حد تک ایپ کی فعالیتیں بدیہی اور سمجھنے میں آسان لگتی ہیں؟"
+    },
+    "q_five": "Q5: آپ کے تجربے کی بنیاد پر دوسروں کو اس ایپ کی تجویز کرنے کا کتنا امکان ہے؟",
+    "@q_five": {
+        "description": "آپ کے تجربے کی بنیاد پر دوسروں کو اس ایپ کی تجویز کرنے کا کتنا امکان ہے؟"
+    },
+    "quite_confusing": "کافی مبہم",
+    "a_bit_challenging": "تھوڑا چیلنجنگ",
+    "fairly_intuitive": "کافی بدیہی",
+    "extremely_user_friendly": "انتہائی صارف دوست",
+    "not_very_confident": "بہت پر اعتماد نہیں۔",
+    "somewhat_confident": "کسی حد تک پراعتماد",
+    "moderately_confident": "اعتدال پر اعتماد",
+    "very_confident": "نہایت پراعتماد",
+    "very_dissatisfied": "بہت غیر مطمئن",
+    "somewhat_dissatisfied": "کسی حد تک غیر مطمئن",
+    "fairly_satisfied": "کافی حد تک مطمئن",
+    "extremely_satisfied": "انتہائی مطمئن",
+    "not_intuitive_at_all": "بدیہی بالکل نہیں۔",
+    "somewhat_intuitive": "کسی حد تک بدیہی",
+    "quite_intuitive": "کافی بدیہی",
+    "very_intuitive": "بہت بدیہی",
+    "not_likely_at_all": "بالکل بھی امکان نہیں۔",
+    "somewhat_likely": "کسی حد تک امکان ہے۔",
+    "quite_likely": "کافی امکان ہے۔",
+    "very_likely": "بہت ملتا جلتا",
+    "comments": "تبصرے",
+    "btn_summit": "جمع کرائیں",
+    "btn_cancel": "منسوخ کریں۔",
+    "btn_login": "لاگ ان کریں",
+    "btn_logout": "لاگ آوٹ",
+    "btn_register": "رجسٹر کریں۔",
+    "btn_username": "USERNAME",
+    "btn_password": "پاس ورڈ",
+    "btn_continue": "جاری رہے",
+    "settings_header": "سیٹنگز",
+    "@settings_header": {
+        "description": "ترتیبات"
+    },
+    "survey_submitted_successfully": "سروے کامیابی کے ساتھ جمع ہو گیا۔",
+    "survey_submitted_failed": "براہ کرم تمام سوالات مکمل کریں۔",
+    "categories_title": "اقسام",
+    "@categories_title": {
+        "description": "اقسام"
+    },
+    "service_one": "پیدائش",
+    "service_two": "ماحولیات",
+    "service_three": "زراعت",
+    "service_four": "صحت",
+    "service_five": "صارف کا تحفظ",
+    "service_six": "تعلیم",
+    "agriculture_land": "زراعت",
+    "authentication": "تصدیق",
+    "enter_username": "اپنے یوزر نام کا اندراج کرو",
+    "login_error": "صارف نام اور پاس ورڈ خالی نہیں ہو سکتا",
+    "username": "صارف نام",
+    "password": "پاس ورڈ",
+    "enter_password": "اپنا پاس ورڈ درج کریں",
+    "login_header": "لاگ ان کریں",
+    "cancel": "منسوخ کریں۔",
+    "land_services": "لینڈ سروسز",
+    "birth_and_parenting": "پیدائش اور پرورش",
+    "prenatal_care": "قبل از پیدائش کی دیکھ بھال",
+    "paternity_test": "پیٹرنٹی ٹیسٹ",
+    "child_immunisation": "بچوں کے حفاظتی ٹیکے",
+    "consumer_protection": "صارف کا تحفظ",
+    "sita_complaints": "SITA شکایات",
+    "education": "تعلیم",
+    "dhet_exam_queries": "DHET امتحان کے سوالات",
+    "fs_school_of_nursing": "فری اسٹیٹ اسکول آف نرسنگ",
+    "environment": "ماحولیات",
+    "department_of_forestry_fisheries_and_the_environment": "محکمہ جنگلات، ماہی پروری اور ماحولیات",
+    "health": "صحت",
+    "free_state_school_of_nursing": "فری اسٹیٹ اسکول آف نرسنگ",
+    "henrietta_stockdale_nursing_college": "ہنریٹا اسٹاک ڈیل نرسنگ کالج",
+    "enterOtpLabel": "OTP درج کریں۔",
+    "confirmOtpButton": "OTP کی تصدیق کریں۔",
+    "resendOtpButton": "OTP دوبارہ بھیجیں۔",
+    "otpEmptyErrorMessage": "براہ کرم اپنا او ٹی پی نمبر درج کریں۔",
+    "resendOtpErrorMessage": "او ٹی پی کو دوبارہ نہیں بھیجا جا سکا، براہ کرم دوبارہ کوشش کریں۔",
+    "appBarTitle": "پاسورڈ بھول گے",
+    "emailInputLabel": "ای میل",
+    "emailEmptyErrorMessage": "براہ کرم اپنا ای میل درج کریں۔",
+    "emailInvalidFormatErrorMessage": "ایک درست ای میل درج کریں.",
+    "resetPasswordButton": "پاس ورڈ ری سیٹ",
+    "cancelButton": "منسوخ کریں۔",
+    "passwordResetEmailSentMessage": "پاس ورڈ ری سیٹ ای میل بھیج دیا گیا۔",
+    "wrongPasswordErrorMessage": "غلط پاس ورڈ",
+    "idNumberInputLabel": "شناختی نمبر",
+    "idNumberEmptyErrorMessage": "براہ کرم اپنا آئی ڈی نمبر درج کریں۔",
+    "cellphoneInputLabel": "موبائل فون",
+    "cellphoneEmptyErrorMessage": "براہ کرم اپنا سیل فون نمبر درج کریں۔",
+    "systemErrorMessage": "سسٹم کی خرابی: ",
+    "idNumberAlreadyExistErrorMessage": "شناختی نمبر پہلے سے موجود ہے۔",
+    "cellphoneAlreadyExistErrorMessage": "سیل فون پہلے سے موجود ہے۔",
+    "emailAlreadyExistErrorMessage": "ای میل ایڈریس پہلے سے موجود ہے۔",
+    "unableToRegisterErrorMessage": "ہم آپ کو رجسٹر کرنے سے قاصر ہیں، براہ کرم سپورٹ ٹیم سے رابطہ کریں۔",
+    "otpDoesNotMatchMessage": "Otp مماثل نہیں ہے۔",
+    "loginAppBarTitle": "لاگ ان کریں",
+    "usernameInputLabel": "صارف نام",
+    "usernameRequiredErrorMessage": "صارف نام درکار ہے۔",
+    "passwordInputLabel": "پاس ورڈ",
+    "passwordRequiredErrorMessage": "پاس ورڈ درکار ہے۔",
+    "loginButton": "لاگ ان کریں",
+    "registerButton": "رجسٹر کریں۔",
+    "forgotUsernameText": "صارف نام",
+    "forgotPasswordText": "پاس ورڈ",
+    "logoutTitle": "لاگ آوٹ",
+    "logoutMessage": "ای-گورنمنٹ سروسز تک رسائی کے لیے آپ کا شکریہ۔\n",
+    "phoneText": "فون",
+    "emailText": "ای میل",
+    "logoutButtonText": "لاگ آوٹ",
+    "otpAppBarTitle": "صارف کی تصدیق",
+    "otpInputLabel": "OTP درج کریں۔",
+    "submitButton": "جمع کرائیں",
+    "updatePasswordAppBarTitle": "پاس ورڈ اپ ڈیٹ کریں۔",
+    "currentPasswordLabel": "موجودہ خفیہ لفظ",
+    "newPasswordLabel": "نیا پاس ورڈ",
+    "confirmPasswordLabel": "پاس ورڈ کی تصدیق کریں۔",
+    "updateButton": "اپ ڈیٹ",
+    "passwordRequirementMessage": "پاس ورڈ حروف عددی ہونا چاہیے، اس میں کم از کم ایک بڑے، چھوٹے اور خصوصی حرف شامل ہوں۔",
+    "passwordMismatchMessage": "پاس ورڈ میچ نہیں کرتے",
+    "termsAndConditionsAppBarTitle": "شرائط و ضوابط",
+    "termsDescription": "رجسٹر اور سائن اپ کرکے آپ یہ کرسکتے ہیں:",
+    "personalDashboard": "ذاتی ڈیش بورڈ دیکھیں",
+    "applyForServices": "ای سروسز کے لیے درخواست دیں۔",
+    "termsAndConditionsText": "میں رضامندی دیتا ہوں کہ میں نے شرائط و ضوابط پڑھ لیے ہیں۔",
+    "privacyPolicyText": "میں رضامندی دیتا ہوں کہ میں نے رازداری کی پالیسی پڑھ لی ہے۔",
+    "continueButton": "جاری رہے",
+    "notCheckedMessage": "براہ کرم جاری رکھنے سے پہلے شرائط و ضوابط اور رازداری کی پالیسی دونوں سے اتفاق کریں۔",
+    "registrationAppBarTitle": "اندراج",
+    "requiredFieldError": "درکار ہے۔",
+    "invalidIdError": "ID نمبر غلط ہے۔",
+    "idLengthError": "ID نمبر 13 حروف کا ہونا چاہیے۔",
+    "passwordMismatchError": "پاس ورڈز مماثل نہیں ہیں۔",
+    "emailValidationError": "درست ای میل ایڈریس درج کریں۔",
+    "submitButtonText": "رجسٹر کریں۔",
+    "passwordRequirements": "پاس ورڈ میں حروف نمبر، نمبر اور خصوصی حروف شامل ہونے چاہئیں۔ ",
+    "resetPasswordTitle": "پاس ورڈ ری سیٹ",
+    "otpFieldLabel": "OTP",
+    "newPasswordFieldLabel": "نیا پاس ورڈ",
+    "confirmPasswordFieldLabel": "پاس ورڈ کی تصدیق کریں۔",
+    "resetPasswordActionLabel": "پاس ورڈ ری سیٹ",
+    "resendOTPActionLabel": "OTP دوبارہ بھیجیں۔",
+    "resetPasswordRequirements": "پاس ورڈ حروف عددی ہونا چاہیے، اس میں کم از کم ایک بڑے، چھوٹے اور خصوصی حرف شامل ہوں۔ ",
+    "passwordResetSuccessMessage": "پاس ورڈ ری سیٹ کامیاب ہو گیا۔",
+    "errorMessagePrefix": "خرابی پیش آگئی: ",
+    "otpMismatchMessage": "OTP مماثل نہیں ہے۔",
+    "newPasswordsMismatchMessage": "نئے پاس ورڈز مماثل نہیں ہیں۔",
+    "unableToRegisterMessage": "ہم آپ کو رجسٹر کرنے سے قاصر ہیں، براہ کرم سپورٹ ٹیم سے رابطہ کریں۔",
+    "unableToResetPasswordMessage": "ہم آپ کا پاس ورڈ دوبارہ ترتیب دینے سے قاصر ہیں، براہ کرم سپورٹ ٹیم سے رابطہ کریں۔",
+    "idNumberExistMessage": "شناختی نمبر پہلے سے موجود ہے۔",
+    "cellphoneExistMessage": "سیل فون پہلے سے موجود ہے۔",
+    "secondName": "دوسرا نام",
+    "thirdName": "تیسرا نام",
+    "passportNumber": "پاسپورٹ نمبر",
+    "landline": "لینڈ لائن",
+    "suburb": "مضافاتی / بستی / گاؤں",
+    "firstName": "پہلا نام *",
+    "surname": "کنیت *",
+    "idNumber": "شناختی نمبر *",
+    "cellphone": "موبائل نمبر *",
+    "email": "ای میل *",
+    "registrationTitle": "اندراج",
+    "emailExistMessage": "ای میل ایڈریس پہلے سے موجود ہے۔",
+    "currentUsername": "آپ کا موجودہ صارف نام:\n",
+    "newUsernameInputLabel": "نیا صارف نام",
+    "confirmNewUsernameInputLabel": "صارف نام کی تصدیق کریں۔",
+    "updateButtonLabel": "اپ ڈیٹ",
+    "cancelButtonLabel": "منسوخ کریں۔",
+    "genderBasedViolence": "صنفی بنیاد پر تشدد",
+    "childLineSouthAfrica": "چائلڈ لائن جنوبی افریقہ",
+    "poisonControl": "زہر کنٹرول",
+    "acceptTermsAndConditions": "براہ کرم شرائط قبول کریں۔",
+    "notification": "اطلاع",
+    "releaseNotification": "یہ ای سروس جلد ہی جاری کی جائے گی۔",
+    "advertisement": "اشتہار",
+    "advertisementMessage": "اپنا اشتہار یہاں لگانے کے لیے\n",
+    "close": "بند کریں",
+    "newsFeeds": "نیوز فیڈز",
+    "southAfricanNews": "جنوبی افریقہ کی حکومت کی خبریں۔",
+    "deleteAccountDrawerTitle": "اکاؤنٹ مینجمنٹ",
+    "deleteAccountDialogTitle": "اکاؤنٹ ہٹائیں؟",
+    "deleteAccountDialogBody": "کیا آپ کو یقین ہے کہ آپ اپنا اکاؤنٹ ہٹانا چاہتے ہیں؟",
+    "deleteAccountSuccessServerMessage": "صارف کا اکاؤنٹ ہٹا دیا گیا ہے۔",
+    "deleteAccountFailedServerMessage": "صارف کا اکاؤنٹ ہٹایا نہیں جا سکا۔",
+    "removeAccount": "اکاؤنٹ کا انتظام",
+    "accountSuspension": "معطل کرنا",
+    "accountRemoval": "دور",
+    "suspensionMessage": "جب آپ اپنا اکاؤنٹ معطل کرتے ہیں، تو آپ کو بعد میں اسے دوبارہ فعال کرنے اور جہاں سے آپ نے چھوڑا تھا وہاں سے دوبارہ شروع کرنے کا اختیار حاصل ہوگا۔",
+    "removalMessage": "جب آپ اپنا اکاؤنٹ ہٹاتے ہیں، تو یہ مستقل طور پر حذف ہو جائے گا اور اسے بازیافت نہیں کیا جا سکتا۔",
+    "consentMessage": "آگے بڑھنے سے پہلے، براہ کرم نوٹ کریں کہ آپ کے اکاؤنٹ کو معطل کرنے سے رسائی عارضی طور پر بند ہو جائے گی، لیکن آپ کا ڈیٹا بعد میں دوبارہ فعال ہونے کے لیے برقرار رہے گا۔ ",
+    "consentAcknowledge": "میں اپنی پسند کے نتائج کو تسلیم کرتا ہوں۔",
+    "proceed": "آگے بڑھو",
+    "favorites": "پسندیدہ",
+    "kZneLicense": "Ezemvelo KZN وائلڈ لائف",
+    "fsEpermit": "آزاد ریاستی اقتصادی، چھوٹے کاروبار کی ترقی، سیاحت اور ماحولیاتی امور",
+    "ecEpermit": "ایسٹرن کیپ ڈیپارٹمنٹ آف اکنامک ڈویلپمنٹ، ماحولیاتی امور اور سیاحت",
+    "limpopoEpermit": "لیمپوپو اقتصادی ترقی، ماحولیات اور سیاحت",
+    "rehab": "بحالی",
+    "fsEcomplaint": "آزاد ریاستی اقتصادی، چھوٹے کاروبار کی ترقی، سیاحت اور ماحولیاتی امور",
+    "nols": "نیشنل آن لائن لرننگ سسٹم (NOLS)",
+    "ltsm": "ایل ٹی ایس ایم",
+    "sitaRecruitment": "SITA بھرتی شہری",
+    "kznRecruitment": "KZN صوبائی حکومت کی ای-ریکروٹمنٹ آسامیاں - S'THESHA WAYA WAYA",
+    "pea": "پرائیویٹ ایمپلائمنٹ ایجنسی (PEA)",
+    "faq": "اکثر پوچھے گئے سوالات",
+    "faqQuestionOne": "1. ای سروسز ایپلیکیشن کے ذریعے کون سی خدمات پیش کی جاتی ہیں؟",
+    "faqQuestionTwo": "2. میں ای سروسز ایپ پر اکاؤنٹ کیسے بنا سکتا ہوں؟",
+    "faqQuestionThree": "3. میں ایپ کے مختلف حصوں میں کیسے جا سکتا ہوں؟",
+    "faqQuestionFour": "4. کیا صارفین کو کسی بھی مسئلے میں مدد کرنے کے لیے کوئی کسٹمر سپورٹ ٹیم دستیاب ہے؟",
+    "faqAnswerOne": "ای سروسز ایپ صارفین کو مختلف قسم کی سرکاری خدمات تک رسائی فراہم کرتی ہے، جیسے کہ فارم یا درخواستیں مکمل کرنا، عوامی ڈیٹا حاصل کرنا، رابطہ کے ذریعے ملاقاتیں کرنا، اور اجازت نامے یا لائسنس کے لیے درخواست دینا۔",
+    "faqAnswerTwo": "ایپ کھولیں اور اکاؤنٹ بنانے کے لیے \"سائن اپ\" یا \"رجسٹر\" کا اختیار تلاش کریں۔ ",
+    "faqAnswerThree": "ایپ میں عام طور پر نیویگیشن بار یا انتخاب شامل ہوتا ہے جو مختلف سروس ایریاز یا زمروں تک رسائی کو آسان بناتا ہے۔ ",
+    "faqAnswerFour": "جی ہاں، ایک کسٹمر سپورٹ ٹیم عام طور پر صارفین کو کسی بھی سوالات یا مسائل میں مدد کرنے کے لیے قابل رسائی ہوتی ہے جس میں وہ ایپلی کیشن کی خصوصیات استعمال کرتے وقت پیش آ سکتے ہیں۔ ",
+    "reports": "رپورٹس",
+    "employmentAndLabour": "روزگار اور محنت"
+}

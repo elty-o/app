@@ -1,0 +1,357 @@
+{
+    "@@locale": "zh",
+    "trending": "流行趋势",
+    "@trending": {
+        "description": "趋势电子服务"
+    },
+    "latest": "最新的",
+    "@latest": {
+        "description": "最新电子服务"
+    },
+    "drawer_not_logged_in": "你没有登录",
+    "@drawer_not_logged_in": {
+        "description": "请登录"
+    },
+    "contact": "接触",
+    "@contact": {
+        "description": "联系电话"
+    },
+    "news_feeds": "新闻提要",
+    "@news_feeds": {
+        "description": "获取最新消息"
+    },
+    "legal_documents": "合法文件",
+    "@legal_documents": {
+        "description": "阅读法律文件"
+    },
+    "feedback": "反馈",
+    "@feedback": {
+        "description": "向我们反馈您的体验"
+    },
+    "settings": "设置",
+    "@settings": {
+        "description": "设置"
+    },
+    "login": "登录",
+    "@login": {
+        "description": "登录"
+    },
+    "logout": "登出",
+    "@logout": {
+        "description": "登出"
+    },
+    "about_us": "关于我们",
+    "@about_us": {
+        "description": "关于我们"
+    },
+    "about_us_legal_documents": "合法文件",
+    "@about_us_legal_documents": {
+        "description": "合法文件"
+    },
+    "about_us_services_privacy_policy": "电子服务隐私政策",
+    "@about_us_services_privacy_policy": {
+        "description": "电子服务隐私政策"
+    },
+    "about_us_terms_and_conditions": "条款和条件",
+    "@about_us_terms_and_conditions": {
+        "description": "条款和条件"
+    },
+    "about_us_paia": "促进获取信息手册",
+    "@about_us_paia": {
+        "description": "促进获取信息手册"
+    },
+    "about_us_sita_privacy": "SITA隐私政策",
+    "@about_us_sita_privacy": {
+        "description": "SITA隐私政策"
+    },
+    "home": "家",
+    "@home": {
+        "description": "家"
+    },
+    "categories": "类别",
+    "@categories": {
+        "description": "类别"
+    },
+    "about_us_header": "关于我们",
+    "@about_use_header": {
+        "description": "关于我们"
+    },
+    "about_us_content_header": "隆重推出南非电子服务应用程序 - 您无缝政府参与的数字门户！",
+    "about_us_paragraph_two": "我们很高兴地宣布推出当前的服务阵容，其中包括出生",
+    "news_feeds_header": "新闻提要",
+    "@news_feeds_header": {
+        "description": "新闻提要"
+    },
+    "news_feeds_error": "无可用数据",
+    "@news_feeds_error": {
+        "description": "无可用数据"
+    },
+    "not_logged_in": "你没有登录",
+    "@not_logged_in": {
+        "description": "你没有登录"
+    },
+    "contact_us_header": "联系我们",
+    "@contact_us_header": {
+        "description": "联系我们"
+    },
+    "emergency_contact_us_header": "紧急联系人",
+    "@emergency_contact_us_header": {
+        "description": "紧急联系人"
+    },
+    "e_services_phone": "电话",
+    "@e_services_phone": {
+        "description": "电话"
+    },
+    "e_services_email": "电子邮件",
+    "@e_services_email": {
+        "description": "电子邮件"
+    },
+    "police": "警察",
+    "@police": {
+        "description": "警察"
+    },
+    "ambulance": "救护车",
+    "@ambulance": {
+        "description": "救护车"
+    },
+    "fire_brigade": "消防队",
+    "@fire_brigade": {
+        "description": "消防队"
+    },
+    "satisfaction_survey": "满意度调查",
+    "@satisfaction_survey": {
+        "description": "满意度调查"
+    },
+    "q_two": "Q2：您对自己有效利用应用程序功能的能力有多大信心？",
+    "@q_two": {
+        "description": "您对有效利用应用程序功能的能力有多大信心？"
+    },
+    "q_three": "Q3：总体而言，您对应用程序的性能和响应能力的满意度如何？",
+    "@q_three": {
+        "description": "总体而言，您对该应用程序的性能和响应能力的满意度如何？"
+    },
+    "q_four": "Q4：您认为该应用程序的功能在多大程度上直观且易于理解？",
+    "@q_four": {
+        "description": "您认为该应用程序的功能在多大程度上直观且易于理解？"
+    },
+    "q_five": "Q5：根据您的经验，您向其他人推荐此应用程序的可能性有多大？",
+    "@q_five": {
+        "description": "根据您的经验，您向其他人推荐此应用程序的可能性有多大？"
+    },
+    "quite_confusing": "相当混乱",
+    "a_bit_challenging": "有点挑战性",
+    "fairly_intuitive": "相当直观",
+    "extremely_user_friendly": "极其人性化",
+    "not_very_confident": "不太有信心",
+    "somewhat_confident": "有点自信",
+    "moderately_confident": "有一定的信心",
+    "very_confident": "非常有信心",
+    "very_dissatisfied": "非常不满",
+    "somewhat_dissatisfied": "有些不满意",
+    "fairly_satisfied": "还算满意",
+    "extremely_satisfied": "非常满意",
+    "not_intuitive_at_all": "一点也不直观",
+    "somewhat_intuitive": "有点直观",
+    "quite_intuitive": "相当直观",
+    "very_intuitive": "非常直观",
+    "not_likely_at_all": "根本不可能",
+    "somewhat_likely": "有点可能",
+    "quite_likely": "很有可能",
+    "very_likely": "很可能",
+    "comments": "评论",
+    "btn_summit": "提交",
+    "btn_cancel": "取消",
+    "btn_login": "登录",
+    "btn_logout": "登出",
+    "btn_register": "登记",
+    "btn_username": "用户名",
+    "btn_password": "密码",
+    "btn_continue": "继续",
+    "settings_header": "设置",
+    "@settings_header": {
+        "description": "设置"
+    },
+    "survey_submitted_successfully": "调查提交成功",
+    "survey_submitted_failed": "请完成所有问题",
+    "categories_title": "类别",
+    "@categories_title": {
+        "description": "类别"
+    },
+    "service_two": "环境",
+    "service_three": "农业",
+    "service_four": "健康",
+    "service_five": "消费者保护",
+    "service_six": "教育",
+    "agriculture_land": "农业",
+    "authentication": "验证",
+    "enter_username": "输入你的用户名",
+    "login_error": "用户名和密码不能为空",
+    "username": "用户名",
+    "password": "密码",
+    "enter_password": "输入您的密码",
+    "login_header": "登录",
+    "cancel": "取消",
+    "land_services": "土地服务",
+    "birth_and_parenting": "出生与养育",
+    "prenatal_care": "产前护理",
+    "paternity_test": "亲子鉴定",
+    "child_immunisation": "儿童免疫接种",
+    "consumer_protection": "消费者保护",
+    "sita_complaints": "SITA 投诉",
+    "education": "教育",
+    "dhet_exam_queries": "DHET 考试查询",
+    "fs_school_of_nursing": "自由州立护理学院",
+    "environment": "环境",
+    "department_of_forestry_fisheries_and_the_environment": "林业、渔业和环境部",
+    "health": "健康",
+    "free_state_school_of_nursing": "自由州立护理学院",
+    "henrietta_stockdale_nursing_college": "亨丽埃塔·斯托克代尔护理学院",
+    "enterOtpLabel": "输入一次性密码",
+    "confirmOtpButton": "确认一次性密码",
+    "resendOtpButton": "重新发送一次性密码",
+    "otpEmptyErrorMessage": "请输入您的 OTP 号码。",
+    "resendOtpErrorMessage": "无法重新发送 otp，请重试。",
+    "appBarTitle": "忘记密码",
+    "emailInputLabel": "电子邮件",
+    "emailEmptyErrorMessage": "请输入您的电子邮件。",
+    "emailInvalidFormatErrorMessage": "请输入有效电子邮件。",
+    "resetPasswordButton": "重设密码",
+    "cancelButton": "取消",
+    "passwordResetEmailSentMessage": "已发送密码重置电子邮件。",
+    "wrongPasswordErrorMessage": "密码错误",
+    "idNumberInputLabel": "身份证号",
+    "idNumberEmptyErrorMessage": "请输入您的身份证号码。",
+    "cellphoneInputLabel": "手机",
+    "cellphoneEmptyErrorMessage": "请输入您的手机号码。",
+    "systemErrorMessage": "系统错误： ",
+    "idNumberAlreadyExistErrorMessage": "ID 号已存在。",
+    "cellphoneAlreadyExistErrorMessage": "手机已经存在。",
+    "emailAlreadyExistErrorMessage": "电子邮件地址已存在。",
+    "unableToRegisterErrorMessage": "我们无法为您注册，请联系支持团队。",
+    "otpDoesNotMatchMessage": "OTP 不匹配。",
+    "loginAppBarTitle": "登录",
+    "usernameInputLabel": "用户名",
+    "usernameRequiredErrorMessage": "用户名是必需的",
+    "passwordInputLabel": "密码",
+    "passwordRequiredErrorMessage": "密码是必需的",
+    "loginButton": "登录",
+    "registerButton": "登记",
+    "forgotUsernameText": "用户名",
+    "forgotPasswordText": "密码",
+    "logoutTitle": "登出",
+    "logoutMessage": "感谢您访问电子政务服务。\n",
+    "phoneText": "电话",
+    "emailText": "电子邮件",
+    "logoutButtonText": "登出",
+    "otpAppBarTitle": "用户验证",
+    "otpInputLabel": "输入一次性密码",
+    "submitButton": "提交",
+    "updatePasswordAppBarTitle": "更新密码",
+    "currentPasswordLabel": "当前密码",
+    "newPasswordLabel": "新密码",
+    "confirmPasswordLabel": "确认密码",
+    "updateButton": "更新",
+    "passwordRequirementMessage": "密码必须是字母数字，至少包含一个大写、小写和特殊字符",
+    "passwordMismatchMessage": "密码不匹配",
+    "termsAndConditionsAppBarTitle": "条款和条件",
+    "termsDescription": "通过注册和注册，您可以：",
+    "personalDashboard": "查看个人仪表板",
+    "applyForServices": "申请电子服务",
+    "termsAndConditionsText": "我同意我已阅读条款和条件",
+    "privacyPolicyText": "我同意我已阅读隐私政策",
+    "continueButton": "继续",
+    "notCheckedMessage": "请先同意条款和条件以及隐私政策，然后再继续",
+    "registrationAppBarTitle": "登记",
+    "requiredFieldError": "必需的",
+    "invalidIdError": "身份证号码无效",
+    "idLengthError": "ID 号长度应为 13 个字符",
+    "passwordMismatchError": "密码不匹配",
+    "emailValidationError": "输入有效的电子邮件地址",
+    "submitButtonText": "登记",
+    "passwordRequirements": "密码应包含字母数字、数字和特殊字符。",
+    "resetPasswordTitle": "重设密码",
+    "otpFieldLabel": "一次性TP",
+    "newPasswordFieldLabel": "新密码",
+    "confirmPasswordFieldLabel": "确认密码",
+    "resetPasswordActionLabel": "重设密码",
+    "resendOTPActionLabel": "重新发送一次性密码",
+    "resetPasswordRequirements": "密码必须是字母数字，至少包含一个大写、小写和特殊字符。",
+    "passwordResetSuccessMessage": "密码重置成功。",
+    "errorMessagePrefix": "发生了错误： ",
+    "otpMismatchMessage": "OTP 不匹配。",
+    "newPasswordsMismatchMessage": "新密码不匹配。",
+    "unableToRegisterMessage": "我们无法为您注册，请联系支持团队。",
+    "unableToResetPasswordMessage": "我们无法重置您的密码，请联系支持团队。",
+    "idNumberExistMessage": "ID 号已存在。",
+    "cellphoneExistMessage": "手机已经存在了。",
+    "secondName": "第二个名字",
+    "thirdName": "第三名",
+    "passportNumber": "护照号",
+    "landline": "固定电话",
+    "suburb": "郊区/乡/村",
+    "firstName": "名 *",
+    "surname": "姓 *",
+    "idNumber": "身份证号 *",
+    "cellphone": "手机号码 *",
+    "email": "电子邮件 *",
+    "registrationTitle": "登记",
+    "emailExistMessage": "电子邮件地址已存在。",
+    "currentUsername": "您当前的用户名：\n",
+    "newUsernameInputLabel": "新用户名",
+    "confirmNewUsernameInputLabel": "确认用户名",
+    "updateButtonLabel": "更新",
+    "cancelButtonLabel": "取消",
+    "about_us_paragraph_other": "南非电子服务应用程序设想了一个未来，每个公民都可以轻松体验无缝、高效和个性化的政府服务。",
+    "q_other": "问题 1：您对应用程序界面导航的初步体验有何评价？",
+    "@q_other": {
+        "description": "您对应用程序界面导航的初步体验有何评价？"
+    },
+    "service_other": "出生",
+    "genderBasedViolence": "基于性别的暴力",
+    "childLineSouthAfrica": "南非儿童热线",
+    "poisonControl": "毒物控制",
+    "acceptTermsAndConditions": "请接受条款",
+    "notification": "通知",
+    "releaseNotification": "该电子服务即将发布。",
+    "advertisement": "广告",
+    "advertisementMessage": "为了在这里放置您的广告\n",
+    "close": "关闭",
+    "newsFeeds": "新闻提要",
+    "southAfricanNews": "南非政府新闻",
+    "deleteAccountDrawerTitle": "帐户管理",
+    "deleteAccountDialogTitle": "删除帐户？",
+    "deleteAccountDialogBody": "您确定要删除您的帐户吗？",
+    "deleteAccountSuccessServerMessage": "用户帐户已被删除。",
+    "deleteAccountFailedServerMessage": "无法删除用户帐户。",
+    "removeAccount": "帐户管理",
+    "accountSuspension": "暂停",
+    "accountRemoval": "消除",
+    "suspensionMessage": "暂停帐户后，您可以选择稍后重新激活帐户并从中断处继续。",
+    "removalMessage": "当您删除帐户时，该帐户将被永久删除且无法恢复。",
+    "consentMessage": "在继续之前，请注意，暂停您的帐户将暂时禁用访问权限，但您的数据将保持不变，以便稍后重新激活。",
+    "consentAcknowledge": "我承认我的选择所带来的后果。",
+    "proceed": "继续",
+    "favorites": "收藏夹",
+    "kZneLicense": "Ezemvelo KZN 野生动物",
+    "fsEpermit": "自由州经济、小企业发展、旅游和环境事务",
+    "ecEpermit": "东开普省经济发展、环境事务和旅游部",
+    "limpopoEpermit": "林波波省经济发展、环境和旅游业",
+    "rehab": "康复中心",
+    "fsEcomplaint": "自由州经济、小企业发展、旅游和环境事务",
+    "nols": "国家在线学习系统（NOLS）",
+    "ltsm": "LTSM",
+    "sitaRecruitment": "SITA 招聘公民",
+    "kznRecruitment": "KZN 省政府电子招聘职位空缺 - S'THESHA WAYA WAYA",
+    "pea": "私人职业介绍所 (PEA)",
+    "faq": "经常问的问题",
+    "faqQuestionOne": "1. 电子服务应用程序提供哪些服务？",
+    "faqQuestionTwo": "2.如何在电子服务应用程序上创建帐户？",
+    "faqQuestionThree": "3. 如何浏览应用程序的不同部分？",
+    "faqQuestionFour": "4. 是否有客户支持团队可以帮助用户解决任何问题？",
+    "faqAnswerOne": "该电子服务应用程序使用户可以访问各种政府服务，例如填写表格或申请、获取公共数据、通过联系进行预约以及申请许可证或执照。",
+    "faqAnswerTwo": "打开应用程序并搜索“注册”或“注册”选项以创建帐户。",
+    "faqAnswerThree": "该应用程序通常包括一个导航栏或选项，可以轻松访问不同的服务区域或类别。",
+    "faqAnswerFour": "是的，客户支持团队通常可以帮助消费者解决在使用应用程序功能时可能遇到的任何疑问或问题。",
+    "reports": "报告",
+    "employmentAndLabour": "就业与劳工"
+}

@@ -1,0 +1,369 @@
+{
+    "@@locale": "fr",
+    "trending": "TENDANCE",
+    "@trending": {
+        "description": "Tendances des services électroniques"
+    },
+    "latest": "DERNIER",
+    "@latest": {
+        "description": "Derniers services électroniques"
+    },
+    "drawer_not_logged_in": "Vous n'êtes pas connecté",
+    "@drawer_not_logged_in": {
+        "description": "Veuillez vous connecter"
+    },
+    "contact": "Contact",
+    "@contact": {
+        "description": "Numéro de contact"
+    },
+    "news_feeds": "Fil d'actualité",
+    "@news_feeds": {
+        "description": "Recevez les dernières nouvelles"
+    },
+    "legal_documents": "Documents le'gaux",
+    "@legal_documents": {
+        "description": "Lire les documents juridiques"
+    },
+    "feedback": "Retour",
+    "@feedback": {
+        "description": "Faites-nous part de votre expérience"
+    },
+    "settings": "Paramètres",
+    "@settings": {
+        "description": "Paramètres"
+    },
+    "login": "Se connecter",
+    "@login": {
+        "description": "Se connecter"
+    },
+    "logout": "Se déconnecter",
+    "@logout": {
+        "description": "Se déconnecter"
+    },
+    "about_us": "À propos de nous",
+    "@about_us": {
+        "description": "À propos de nous"
+    },
+    "about_us_legal_documents": "DOCUMENTS LE'GAUX",
+    "@about_us_legal_documents": {
+        "description": "Documents le'gaux"
+    },
+    "about_us_services_privacy_policy": "Politique de confidentialité des services électroniques",
+    "@about_us_services_privacy_policy": {
+        "description": "Politique de confidentialité des services électroniques"
+    },
+    "about_us_terms_and_conditions": "Termes et conditions",
+    "@about_us_terms_and_conditions": {
+        "description": "Termes et conditions"
+    },
+    "about_us_paia": "Manuel de promotion de l'accès à l'information",
+    "@about_us_paia": {
+        "description": "Manuel de promotion de l'accès à l'information"
+    },
+    "about_us_sita_privacy": "Politique de confidentialité de SITA",
+    "@about_us_sita_privacy": {
+        "description": "Politique de confidentialité de SITA"
+    },
+    "home": "Maison",
+    "@home": {
+        "description": "Maison"
+    },
+    "categories": "Catégories",
+    "@categories": {
+        "description": "Catégories"
+    },
+    "about_us_header": "À PROPOS DE NOUS",
+    "@about_use_header": {
+        "description": "À PROPOS DE NOUS"
+    },
+    "about_us_content_header": "Présentation de l'application sud-africaine e-Services - votre passerelle numérique vers un engagement gouvernemental fluide !",
+    "about_us_paragraph_two": "Nous sommes ravis d'annoncer le lancement de notre gamme actuelle de services, qui comprend la naissance",
+    "news_feeds_header": "FIL D'ACTUALITÉ",
+    "@news_feeds_header": {
+        "description": "Fil d'actualité"
+    },
+    "news_feeds_error": "Pas de données disponibles",
+    "@news_feeds_error": {
+        "description": "Pas de données disponibles"
+    },
+    "not_logged_in": "Vous n'êtes pas connecté",
+    "@not_logged_in": {
+        "description": "Vous n'êtes pas connecté"
+    },
+    "contact_us_header": "CONTACTEZ-NOUS",
+    "@contact_us_header": {
+        "description": "Contactez-nous"
+    },
+    "emergency_contact_us_header": "PERSONNE À CONTACTER EN CAS D'URGENCE",
+    "@emergency_contact_us_header": {
+        "description": "Contacts d'urgence"
+    },
+    "e_services_phone": "Téléphone",
+    "@e_services_phone": {
+        "description": "Téléphone"
+    },
+    "e_services_email": "E-mail",
+    "@e_services_email": {
+        "description": "E-mail"
+    },
+    "police": "Police",
+    "@police": {
+        "description": "Police"
+    },
+    "ambulance": "Ambulance",
+    "@ambulance": {
+        "description": "Ambulance"
+    },
+    "fire_brigade": "Pompiers",
+    "@fire_brigade": {
+        "description": "Pompiers"
+    },
+    "satisfaction_survey": "ENQUÊTE DE SATISFACTION",
+    "@satisfaction_survey": {
+        "description": "Enquête de satisfaction"
+    },
+    "q_two": "Q2 : Dans quelle mesure avez-vous confiance dans votre capacité à utiliser efficacement les fonctionnalités de l'application ?",
+    "@q_two": {
+        "description": "Dans quelle mesure avez-vous confiance dans votre capacité à utiliser efficacement les fonctionnalités de l’application ?"
+    },
+    "q_three": "Q3 : Dans l'ensemble, dans quelle mesure êtes-vous satisfait des performances et de la réactivité de l'application ?",
+    "@q_three": {
+        "description": "Dans l'ensemble, êtes-vous satisfait des performances et de la réactivité de l'application ?"
+    },
+    "q_four": "Q4 : Dans quelle mesure trouvez-vous les fonctionnalités de l'application intuitives et faciles à comprendre ?",
+    "@q_four": {
+        "description": "Dans quelle mesure trouvez-vous les fonctionnalités de l’application intuitives et faciles à comprendre ?"
+    },
+    "q_five": "Q5 : Quelle est la probabilité que vous recommandiez cette application à d’autres personnes en fonction de votre expérience ?",
+    "@q_five": {
+        "description": "Quelle est la probabilité que vous recommandiez cette application à d’autres en fonction de votre expérience ?"
+    },
+    "quite_confusing": "Assez déroutant",
+    "a_bit_challenging": "Un peu difficile",
+    "fairly_intuitive": "Assez intuitif",
+    "extremely_user_friendly": "Extrêmement convivial",
+    "not_very_confident": "Pas très confiant",
+    "somewhat_confident": "Un peu confiant",
+    "moderately_confident": "Moyennement confiant",
+    "very_confident": "Très confiant",
+    "very_dissatisfied": "Très insatisfait",
+    "somewhat_dissatisfied": "Plutôt insatisfait",
+    "fairly_satisfied": "Plutôt satisfait",
+    "extremely_satisfied": "Extrêmement satisfait",
+    "not_intuitive_at_all": "Pas intuitif du tout",
+    "somewhat_intuitive": "Un peu intuitif",
+    "quite_intuitive": "Assez intuitif",
+    "very_intuitive": "Très intuitif",
+    "not_likely_at_all": "Pas du tout probable",
+    "somewhat_likely": "Assez probable",
+    "quite_likely": "Plutôt probable",
+    "very_likely": "Très probable",
+    "comments": "commentaires",
+    "btn_summit": "SOUMETTRE",
+    "btn_cancel": "ANNULER",
+    "btn_login": "SE CONNECTER",
+    "btn_logout": "SE DÉCONNECTER",
+    "btn_register": "REGISTRE",
+    "btn_username": "NOM D'UTILISATEUR",
+    "btn_password": "MOT DE PASSE",
+    "btn_continue": "CONTINUER",
+    "settings_header": "PARAMÈTRES",
+    "@settings_header": {
+        "description": "Paramètres"
+    },
+    "survey_submitted_successfully": "Enquête soumise avec succès",
+    "survey_submitted_failed": "Veuillez répondre à toutes les questions",
+    "categories_title": "CATÉGORIES",
+    "@categories_title": {
+        "description": "Catégories"
+    },
+    "service_two": "ENVIRONNEMENT",
+    "service_three": "AGRICULTURE",
+    "service_four": "SANTÉ",
+    "service_five": "LA PROTECTION DES CONSOMMATEURS",
+    "service_six": "ÉDUCATION",
+    "agriculture_land": "Agriculture",
+    "authentication": "Authentification",
+    "enter_username": "Entrez votre nom d'utilisateur",
+    "login_error": "Le nom d'utilisateur et le mot de passe ne peuvent pas être vides",
+    "username": "Nom d'utilisateur",
+    "password": "Mot de passe",
+    "enter_password": "Tapez votre mot de passe",
+    "login_header": "SE CONNECTER",
+    "cancel": "ANNULER",
+    "land_services": "Services fonciers",
+    "birth_and_parenting": "Naissance et parentalité",
+    "prenatal_care": "Soins prénatals",
+    "paternity_test": "Test de paternité",
+    "child_immunisation": "Vaccination des enfants",
+    "consumer_protection": "La protection des consommateurs",
+    "sita_complaints": "Plaintes SITA",
+    "education": "Éducation",
+    "dhet_exam_queries": "Requêtes d'examen DHET",
+    "fs_school_of_nursing": "École nationale gratuite d'infirmières",
+    "environment": "Environnement",
+    "department_of_forestry_fisheries_and_the_environment": "Département des forêts, des pêches et de l'environnement",
+    "health": "Santé",
+    "free_state_school_of_nursing": "École nationale gratuite d'infirmières",
+    "henrietta_stockdale_nursing_college": "Collège d'infirmières Henrietta Stockdale",
+    "enterOtpLabel": "Entrez OTP",
+    "confirmOtpButton": "CONFIRMER OTP",
+    "resendOtpButton": "RENVOYER OTP",
+    "otpEmptyErrorMessage": "Veuillez entrer votre numéro OTP.",
+    "resendOtpErrorMessage": "Impossible de renvoyer un OTP, veuillez réessayer.",
+    "appBarTitle": "MOT DE PASSE OUBLIÉ",
+    "emailInputLabel": "E-mail",
+    "emailEmptyErrorMessage": "Veuillez entrer votre email.",
+    "emailInvalidFormatErrorMessage": "Veuillez saisir un email valide.",
+    "resetPasswordButton": "RÉINITIALISER LE MOT DE PASSE",
+    "cancelButton": "ANNULER",
+    "passwordResetEmailSentMessage": "E-mail de réinitialisation du mot de passe envoyé.",
+    "wrongPasswordErrorMessage": "Mauvais mot de passe",
+    "idNumberInputLabel": "Numéro d'identification",
+    "idNumberEmptyErrorMessage": "Veuillez entrer votre numéro d'identification.",
+    "cellphoneInputLabel": "Téléphone portable",
+    "cellphoneEmptyErrorMessage": "Veuillez entrer votre numéro de téléphone portable.",
+    "systemErrorMessage": "Erreur système: ",
+    "idNumberAlreadyExistErrorMessage": "Le numéro d'identification existe déjà.",
+    "cellphoneAlreadyExistErrorMessage": "Le téléphone portable existe déjà.",
+    "emailAlreadyExistErrorMessage": "L'adresse e-mail existe déjà.",
+    "unableToRegisterErrorMessage": "Nous ne parvenons pas à vous inscrire, veuillez contacter l'équipe d'assistance.",
+    "otpDoesNotMatchMessage": "Otp ne correspond pas.",
+    "loginAppBarTitle": "SE CONNECTER",
+    "usernameInputLabel": "Nom d'utilisateur",
+    "usernameRequiredErrorMessage": "Nom d'utilisateur est nécessaire",
+    "passwordInputLabel": "Mot de passe",
+    "passwordRequiredErrorMessage": "Mot de passe requis",
+    "loginButton": "SE CONNECTER",
+    "registerButton": "REGISTRE",
+    "forgotUsernameText": "Nom d'utilisateur",
+    "forgotPasswordText": "Mot de passe",
+    "logoutTitle": "SE DÉCONNECTER",
+    "logoutMessage": "Merci d'avoir accédé aux services e-Gov.\n",
+    "phoneText": "Téléphone",
+    "emailText": "E-mail",
+    "logoutButtonText": "SE DÉCONNECTER",
+    "otpAppBarTitle": "VÉRIFICATION DE L'UTILISATEUR",
+    "otpInputLabel": "Entrez OTP",
+    "submitButton": "SOUMETTRE",
+    "updatePasswordAppBarTitle": "METTRE À JOUR LE MOT DE PASSE",
+    "currentPasswordLabel": "Mot de passe actuel",
+    "newPasswordLabel": "nouveau mot de passe",
+    "confirmPasswordLabel": "Confirmez le mot de passe",
+    "updateButton": "MISE À JOUR",
+    "passwordRequirementMessage": "Le mot de passe doit être alphanumérique et contenir au moins une majuscule, une minuscule et un caractère spécial",
+    "passwordMismatchMessage": "Les mots de passe ne correspondent pas",
+    "termsAndConditionsAppBarTitle": "TERMES ET CONDITIONS",
+    "termsDescription": "En vous inscrivant et en vous inscrivant, vous pouvez :",
+    "personalDashboard": "Afficher le tableau de bord personnel",
+    "applyForServices": "Demander des services électroniques",
+    "termsAndConditionsText": "Je consens à avoir lu les termes et conditions",
+    "privacyPolicyText": "J'accepte d'avoir lu la politique de confidentialité",
+    "continueButton": "CONTINUER",
+    "notCheckedMessage": "Veuillez accepter les conditions générales et la politique de confidentialité avant de continuer.",
+    "registrationAppBarTitle": "INSCRIPTION",
+    "requiredFieldError": "Requis",
+    "invalidIdError": "Numéro d'identification invalide",
+    "idLengthError": "Le numéro d'identification doit comporter 13 caractères",
+    "passwordMismatchError": "Les mots de passe ne correspondent pas",
+    "emailValidationError": "Entrez une adresse e-mail valide",
+    "submitButtonText": "Registre",
+    "passwordRequirements": "Le mot de passe doit contenir des caractères alphanumériques, numériques et spéciaux. ",
+    "resetPasswordTitle": "RÉINITIALISER LE MOT DE PASSE",
+    "otpFieldLabel": "Bureau du Procureur",
+    "newPasswordFieldLabel": "nouveau mot de passe",
+    "confirmPasswordFieldLabel": "Confirmez le mot de passe",
+    "resetPasswordActionLabel": "réinitialiser le mot de passe",
+    "resendOTPActionLabel": "RENVOYER OTP",
+    "resetPasswordRequirements": "Le mot de passe doit être alphanumérique et contenir au moins une majuscule,\nune minuscule et un caractère spécial. ",
+    "passwordResetSuccessMessage": "Réinitialisation du mot de passe réussie.",
+    "errorMessagePrefix": "Erreur est survenue: ",
+    "otpMismatchMessage": "OTP ne correspond pas.",
+    "newPasswordsMismatchMessage": "Les nouveaux mots de passe ne correspondent pas.",
+    "unableToRegisterMessage": "Nous ne parvenons pas à vous inscrire, veuillez contacter l'équipe d'assistance.",
+    "unableToResetPasswordMessage": "Nous ne parvenons pas à réinitialiser votre mot de passe, veuillez contacter l'équipe d'assistance.",
+    "idNumberExistMessage": "Le numéro d'identification existe déjà.",
+    "cellphoneExistMessage": "Le téléphone portable existe déjà.",
+    "secondName": "Nom de famille",
+    "thirdName": "Troisième Nom",
+    "passportNumber": "Numéro de passeport",
+    "landline": "Téléphone fixe",
+    "suburb": "Banlieue/Canton/Village",
+    "firstName": "Prénom *",
+    "surname": "Nom de famille *",
+    "idNumber": "Numéro d'identification *",
+    "cellphone": "Numéro de téléphone portable *",
+    "email": "E-mail *",
+    "registrationTitle": "INSCRIPTION",
+    "emailExistMessage": "L'adresse mail existe déjà.",
+    "currentUsername": "Votre nom d'utilisateur actuel :\n",
+    "newUsernameInputLabel": "Nouveau nom d'utilisateur",
+    "confirmNewUsernameInputLabel": "Confirmer le nom d'utilisateur",
+    "updateButtonLabel": "MISE À JOUR",
+    "cancelButtonLabel": "ANNULER",
+    "about_us_paragraph_one": "L'application sud-africaine e-Services envisage un avenir dans lequel chaque citoyen bénéficiera de services gouvernementaux transparents, efficaces et personnalisés à portée de main. ",
+    "about_us_paragraph_many": "L'application sud-africaine e-Services envisage un avenir dans lequel chaque citoyen bénéficiera de services gouvernementaux transparents, efficaces et personnalisés à portée de main. ",
+    "about_us_paragraph_other": "L'application sud-africaine e-Services envisage un avenir dans lequel chaque citoyen bénéficiera de services gouvernementaux transparents, efficaces et personnalisés à portée de main. ",
+    "q_one": "Q1 : Comment évalueriez-vous votre première expérience de navigation dans l'interface de l'application ?",
+    "q_many": "Q1 : Comment évalueriez-vous votre première expérience de navigation dans l'interface de l'application ?",
+    "q_other": "Q1 : Comment évalueriez-vous votre première expérience de navigation dans l'interface de l'application ?",
+    "@q_one": {
+        "description": "Comment évalueriez-vous votre première expérience de navigation dans l’interface de l’application ?"
+    },
+    "@q_many": {
+        "description": "Comment évalueriez-vous votre première expérience de navigation dans l’interface de l’application ?"
+    },
+    "@q_other": {
+        "description": "Comment évalueriez-vous votre première expérience de navigation dans l’interface de l’application ?"
+    },
+    "service_one": "NAISSANCE",
+    "service_many": "NAISSANCE",
+    "service_other": "NAISSANCE",
+    "genderBasedViolence": "La violence sexiste",
+    "childLineSouthAfrica": "Ligne enfant Afrique du Sud",
+    "poisonControl": "Contrôle antipoison",
+    "acceptTermsAndConditions": "Veuillez accepter les conditions",
+    "notification": "Notification",
+    "releaseNotification": "Ce e-Service sera bientôt disponible.",
+    "advertisement": "Publicité",
+    "advertisementMessage": "Pour déposer votre annonce ici\n",
+    "close": "FERMER",
+    "newsFeeds": "FIL D'ACTUALITÉ",
+    "southAfricanNews": "Actualités du gouvernement sud-africain",
+    "deleteAccountDrawerTitle": "Gestion de compte",
+    "deleteAccountDialogTitle": "SUPPRIMER LE COMPTE?",
+    "deleteAccountDialogBody": "ÊTES-VOUS SÛR DE VOULOIR SUPPRIMER VOTRE COMPTE ?",
+    "deleteAccountSuccessServerMessage": "Le compte utilisateur a été supprimé.",
+    "deleteAccountFailedServerMessage": "Le compte utilisateur n'a pas pu être supprimé.",
+    "removeAccount": "GESTION DE COMPTE",
+    "accountSuspension": "Suspendre",
+    "accountRemoval": "Retirer",
+    "suspensionMessage": "Lorsque vous suspendez votre compte, vous aurez la possibilité de le réactiver plus tard et de reprendre là où vous vous étiez arrêté.",
+    "removalMessage": "Lorsque vous supprimez votre compte, il sera définitivement supprimé et ne pourra pas être récupéré.",
+    "consentMessage": "Avant de continuer, veuillez noter que la suspension de votre compte désactivera temporairement l'accès, mais vos données resteront intactes pour une réactivation ultérieure. ",
+    "consentAcknowledge": "Je reconnais les conséquences de mon choix.",
+    "proceed": "PROCÉDER",
+    "favorites": "Favoris",
+    "kZneLicense": "Ezemvelo KZN Faune",
+    "fsEpermit": "Affaires économiques, de développement des petites entreprises, de tourisme et d’environnement de l’État libre",
+    "ecEpermit": "Département du développement économique, des affaires environnementales et du tourisme du Cap oriental",
+    "limpopoEpermit": "Développement économique, environnement et tourisme du Limpopo",
+    "rehab": "Désintox",
+    "fsEcomplaint": "Affaires économiques, de développement des petites entreprises, de tourisme et d’environnement de l’État libre",
+    "nols": "Système national d'apprentissage en ligne (NOLS)",
+    "ltsm": "LTSM",
+    "sitaRecruitment": "SITA Recrutement Citoyen",
+    "kznRecruitment": "Postes vacants de recrutement en ligne du gouvernement provincial KZN - S'THESHA WAYA WAYA",
+    "pea": "Agence Privée pour l'Emploi (PEA)",
+    "faq": "Questions fréquemment posées",
+    "faqQuestionOne": "1. Quels services sont proposés par l'application e-services ?",
+    "faqQuestionTwo": "2.Comment créer un compte sur l'application e-services ?",
+    "faqQuestionThree": "3. Comment naviguer dans les différentes sections de l'application ?",
+    "faqQuestionFour": "4. Existe-t-il une équipe de support client disponible pour aider les utilisateurs en cas de problème ?",
+    "faqAnswerOne": "L'application de services électroniques permet aux utilisateurs d'accéder à une variété de services gouvernementaux, tels que remplir des formulaires ou des demandes, obtenir des données publiques, prendre des rendez-vous par contact et demander des permis ou des licences.",
+    "faqAnswerTwo": "Ouvrez l'application et recherchez l'option « S'inscrire » ou « S'inscrire » pour créer un compte. ",
+    "faqAnswerThree": "L'application comprend généralement une barre de navigation ou un choix qui facilite l'accès à différentes zones ou catégories de service. ",
+    "faqAnswerFour": "Oui, une équipe de support client est généralement accessible pour aider les consommateurs avec toutes les questions ou problèmes qu'ils pourraient rencontrer lors de l'utilisation des fonctionnalités de l'application. ",
+    "reports": "Rapports",
+    "employmentAndLabour": "EMPLOI ET TRAVAIL"
+}

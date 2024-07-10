@@ -1,0 +1,357 @@
+{
+    "@@locale": "en",
+    "trending": "TRENDING",
+    "@trending": {
+        "description": "Trending e-Services"
+    },
+    "latest": "LATEST",
+    "@latest": {
+        "description": "Latest e-Services"
+    },
+    "drawer_not_logged_in": "You are not logged in",
+    "@drawer_not_logged_in": {
+        "description": "Please log in"
+    },
+    "contact": "Contact",
+    "@contact": {
+        "description": "Contact numbers"
+    },
+    "news_feeds": "News Feeds",
+    "@news_feeds": {
+        "description": "Get the latest news"
+    },
+    "legal_documents": "Legal Documents",
+    "@legal_documents": {
+        "description": "Read the legal documents"
+    },
+    "feedback": "Feedback",
+    "@feedback": {
+        "description": "Give us feedback about your experience"
+    },
+    "settings": "Settings",
+    "@settings": {
+        "description": "Settings"
+    },
+    "login": "Login",
+    "@login": {
+        "description": "Login"
+    },
+    "logout": "Logout",
+    "@logout": {
+        "description": "Logout"
+    },
+    "about_us": "About Us",
+    "@about_us": {
+        "description": "About us"
+    },
+    "about_us_legal_documents": "LEGAL DOCUMENTS",
+    "@about_us_legal_documents": {
+        "description": "Legal Documents"
+    },
+    "about_us_services_privacy_policy": "e-Services Privacy Policy",
+    "@about_us_services_privacy_policy": {
+        "description": "e-Services Privacy Policy"
+    },
+    "about_us_terms_and_conditions": "Terms and Conditions",
+    "@about_us_terms_and_conditions": {
+        "description": "Term and Conditions"
+    },
+    "about_us_paia": "Promotion of Access to Information Manual",
+    "@about_us_paia": {
+        "description": "Promotion of Access to Information Manual"
+    },
+    "about_us_sita_privacy": "SITA Privacy Policy",
+    "@about_us_sita_privacy": {
+        "description": "SITA Privacy Policy"
+    },
+    "home": "Home",
+    "@home": {
+        "description": "Home"
+    },
+    "categories": "Categories",
+    "@categories": {
+        "description": "Categories"
+    },
+    "about_us_header": "ABOUT US",
+    "@about_use_header": {
+        "description": "ABOUT US"
+    },
+    "about_us_content_header": "Introducing the South African e-Services app - your digital gateway to seamless government engagement!",
+    "about_us_paragraph_one": "The South African e-Services app envisions a future where every citizen experience seamless, efficient, and personalized government services at their fingertips. Our aim is to continually evolve, innovate, and adapt to the dynamic needs of the South African population, ensuring that our digital gateway remains a reliable and indispensable tool for all.",
+    "about_us_paragraph_two": "We are excited to announce the introduction of our current lineup of services, which includes Birth & Parenting, Environmental, and Agriculture services. We anticipate the expansion of our service offerings, with more options becoming available in the near future.",
+    "news_feeds_header": "NEWS FEEDS",
+    "@news_feeds_header": {
+        "description": "News feeds"
+    },
+    "news_feeds_error": "No data available",
+    "@news_feeds_error": {
+        "description": "No data available"
+    },
+    "not_logged_in": "You are not logged in",
+    "@not_logged_in": {
+        "description": "You are not logged in"
+    },
+    "contact_us_header": "CONTACT US",
+    "@contact_us_header": {
+        "description": "Contact Us"
+    },
+    "emergency_contact_us_header": "EMERGENCY CONTACT",
+    "@emergency_contact_us_header": {
+        "description": "Emergency Contacts"
+    },
+    "e_services_phone": "Phone",
+    "@e_services_phone": {
+        "description": "Phone"
+    },
+    "e_services_email": "Email",
+    "@e_services_email": {
+        "description": "Email"
+    },
+    "police": "Police",
+    "@police": {
+        "description": "Police"
+    },
+    "ambulance": "Ambulance",
+    "@ambulance": {
+        "description": "Ambulance"
+    },
+    "fire_brigade": "Fire Brigade",
+    "@fire_brigade": {
+        "description": "Fire Brigade"
+    },
+    "satisfaction_survey": "SATISFACTION SURVEY",
+    "@satisfaction_survey": {
+        "description": "Satisfaction Survey"
+    },
+    "q_one": "Q1: How would you rate your initial experience with navigating the app's interface?",
+    "@q_one": {
+        "description": "How would you rate your initial experience with navigating the app's interface?"
+    },
+    "q_two": "Q2: How confident do you feel in your ability to utilize the app's features effectively?",
+    "@q_two": {
+        "description": "How confident do you feel in your ability to utilize the app's features effectively?"
+    },
+    "q_three": "Q3: Overall, how satisfied are you with the app's performance and responsiveness?",
+    "@q_three": {
+        "description": "Overall, how satisfied are you with the app's performance and responsiveness?"
+    },
+    "q_four": "Q4: To what extent do you find the app's functionalities intuitive and easy to understand?",
+    "@q_four": {
+        "description": "To what extent do you find the app's functionalities intuitive and easy to understand?"
+    },
+    "q_five": "Q5: How likely are you to recommend this app to others based on your experience?",
+    "@q_five": {
+        "description": "How likely are you to recommend this app to others based on your experience?"
+    },
+    "quite_confusing": "Quite confusing",
+    "a_bit_challenging": "A bit challenging",
+    "fairly_intuitive": "Fairly intuitive",
+    "extremely_user_friendly": "Extremely user-friendly",
+    "not_very_confident": "Not very confident",
+    "somewhat_confident": "Somewhat confident",
+    "moderately_confident": "Moderately confident",
+    "very_confident": "Very confident",
+    "very_dissatisfied": "Very dissatisfied",
+    "somewhat_dissatisfied": "Somewhat dissatisfied",
+    "fairly_satisfied": "Fairly satisfied",
+    "extremely_satisfied": "Extremely satisfied",
+    "not_intuitive_at_all": "Not intuitive at all",
+    "somewhat_intuitive": "Somewhat intuitive",
+    "quite_intuitive": "Quite intuitive",
+    "very_intuitive": "Very intuitive",
+    "not_likely_at_all": "Not likely at all",
+    "somewhat_likely": "Somewhat likely",
+    "quite_likely": "Quite likely",
+    "very_likely": "Very likely",
+    "comments": "Comments",
+    "btn_summit": "SUBMIT",
+    "btn_cancel": "CANCEL",
+    "btn_login": "LOGIN",
+    "btn_logout": "LOGOUT",
+    "btn_register": "REGISTER",
+    "btn_username": "USERNAME",
+    "btn_password": "PASSWORD",
+    "btn_continue": "CONTINUE",
+    "settings_header": "SETTINGS",
+    "@settings_header": {
+        "description": "Settings"
+    },
+    "survey_submitted_successfully": "Survey submitted successfully",
+    "survey_submitted_failed": "Please complete all questions",
+    "categories_title": "CATEGORIES",
+    "@categories_title": {
+        "description": "Categories"
+    },
+    "service_one": "BIRTH & PARENTING",
+    "service_two": "ENVIRONMENT",
+    "service_three": "AGRICULTURE & LAND",
+    "service_four": "HEALTH",
+    "service_five": "CONSUMER PROTECTION",
+    "service_six": "EDUCATION",
+    "agriculture_land": "Agriculture & Land",
+    "authentication": "Authentication",
+    "enter_username": "Enter your email",
+    "login_error": "Email and password cannot be empty",
+    "username": "Email",
+    "password": "Password",
+    "enter_password": "Enter your password",
+    "login_header": "LOGIN",
+    "cancel": "CANCEL",
+    "land_services": "Land Services",
+    "birth_and_parenting": "Birth and Parenting",
+    "prenatal_care": "Prenatal care",
+    "paternity_test": "Paternity test",
+    "child_immunisation": "Child immunisation",
+    "consumer_protection": "Consumer Protection",
+    "sita_complaints": "SITA Complaints",
+    "education": "Education",
+    "dhet_exam_queries": "DHET Exam Queries",
+    "fs_school_of_nursing": "Free State School of Nursing",
+    "environment": "Environment",
+    "department_of_forestry_fisheries_and_the_environment": "Department of Forestry, Fisheries and the Environment",
+    "health": "Health",
+    "free_state_school_of_nursing": "Free State School of Nursing",
+    "henrietta_stockdale_nursing_college": "Henrietta Stockdale Nursing College",
+    "enterOtpLabel": "Enter OTP",
+    "confirmOtpButton": "CONFIRM OTP",
+    "resendOtpButton": "RESEND OTP",
+    "otpEmptyErrorMessage": "Please enter your otp number.",
+    "resendOtpErrorMessage": "Could not resend an otp, please try again.",
+    "appBarTitle": "FORGOT PASSWORD",
+    "emailInputLabel": "Email",
+    "emailEmptyErrorMessage": "Please enter your email.",
+    "emailInvalidFormatErrorMessage": "Please enter a valid email.",
+    "resetPasswordButton": "RESET PASSWORD",
+    "cancelButton": "CANCEL",
+    "passwordResetEmailSentMessage": "Password reset email sent.",
+    "wrongPasswordErrorMessage": "Wrong password",
+    "idNumberInputLabel": "ID Number",
+    "idNumberEmptyErrorMessage": "Please enter your id number.",
+    "cellphoneInputLabel": "Cellphone",
+    "cellphoneEmptyErrorMessage": "Please enter your cellphone number.",
+    "systemErrorMessage": "System error: ",
+    "idNumberAlreadyExistErrorMessage": "ID Number already exist.",
+    "cellphoneAlreadyExistErrorMessage": "Cellphone already exist.",
+    "emailAlreadyExistErrorMessage": "Email address already exist.",
+    "unableToRegisterErrorMessage": "We are unable to register you, please contact support team.",
+    "otpDoesNotMatchMessage": "Otp does not match.",
+    "loginAppBarTitle": "LOGIN",
+    "usernameInputLabel": "Username",
+    "usernameRequiredErrorMessage": "Username is required",
+    "passwordInputLabel": "Password",
+    "passwordRequiredErrorMessage": "Password is required",
+    "loginButton": "LOGIN",
+    "registerButton": "REGISTER",
+    "forgotUsernameText": "Username",
+    "forgotPasswordText": "Password",
+    "logoutTitle": "LOGOUT",
+    "logoutMessage": "Thank you for accessing e-Gov services. \nWe appreciate your engagement with our platform. \nYour experience matters to us,and we would love to hear from you. \nPlease feel free to share your feedback and support by calling us. \nYour input is valuable, and we are here to assist you",
+    "phoneText": "Phone",
+    "emailText": "Email",
+    "logoutButtonText": "LOGOUT",
+    "otpAppBarTitle": "USER VERIFICATION",
+    "otpInputLabel": "Enter OTP",
+    "submitButton": "SUBMIT",
+    "updatePasswordAppBarTitle": "UPDATE PASSWORD",
+    "currentPasswordLabel": "Current Password",
+    "newPasswordLabel": "New Password",
+    "confirmPasswordLabel": "Confirm Password",
+    "updateButton": "UPDATE",
+    "passwordRequirementMessage": "Password must be alphanumeric, contain at least one uppercase, lowercase and special character",
+    "passwordMismatchMessage": "Passwords do not match",
+    "termsAndConditionsAppBarTitle": "TERMS AND CONDITIONS",
+    "termsDescription": "By registering and signing up you can:",
+    "personalDashboard": "View Personal Dashboard",
+    "applyForServices": "Apply for e-Services",
+    "termsAndConditionsText": "I consent that I have read the Terms and Conditions",
+    "privacyPolicyText": "I consent that I have read the Privacy Policy",
+    "continueButton": "CONTINUE",
+    "notCheckedMessage": "Please agree to both Terms and Conditions and Privacy Policy before continuing",
+    "registrationAppBarTitle": "REGISTRATION",
+    "requiredFieldError": "Required",
+    "invalidIdError": "ID Number invalid",
+    "idLengthError": "ID Number should be 13 characters long",
+    "passwordMismatchError": "Passwords does not match",
+    "emailValidationError": "Enter valid email address",
+    "submitButtonText": "Register",
+    "passwordRequirements": "Password should contain alphanumeric, number and special characters. It must be at least 8 characters long.",
+    "resetPasswordTitle": "RESET PASSWORD",
+    "otpFieldLabel": "OTP",
+    "newPasswordFieldLabel": "New Password",
+    "confirmPasswordFieldLabel": "Confirm Password",
+    "resetPasswordActionLabel": "Reset Password",
+    "resendOTPActionLabel": "RESEND OTP",
+    "resetPasswordRequirements": "Password must be alphanumeric, contain at least one uppercase,\nlowercase, and special character.\nIt must be at least 8 characters long.",
+    "passwordResetSuccessMessage": "Password reset successful.",
+    "errorMessagePrefix": "Error occurred: ",
+    "otpMismatchMessage": "OTP does not match.",
+    "newPasswordsMismatchMessage": "New passwords do not match.",
+    "unableToRegisterMessage": "We are unable to register you, please contact support team.",
+    "unableToResetPasswordMessage": "We are unable to reset your password, please contact support team.",
+    "idNumberExistMessage": "ID Number already exists.",
+    "cellphoneExistMessage": "Cellphone already exists.",
+    "secondName": "Second Name",
+    "thirdName": "Third Name",
+    "passportNumber": "Passport Number",
+    "landline": "Landline",
+    "suburb": "Suburb/Township/Village",
+    "firstName": "First Name *",
+    "surname": "Surname *",
+    "idNumber": "ID Number *",
+    "cellphone": "Cellphone Number *",
+    "email": "Email *",
+    "registrationTitle": "REGISTRATION",
+    "emailExistMessage": "Email address already exists.",
+    "currentUsername": "Your current username:\n",
+    "newUsernameInputLabel": "New Username",
+    "confirmNewUsernameInputLabel": "Confirm Username",
+    "updateButtonLabel": "UPDATE",
+    "cancelButtonLabel": "CANCEL",
+    "genderBasedViolence": "Gender-Based Violence",
+    "childLineSouthAfrica": "Child-line South Africa",
+    "poisonControl": "Poison Control",
+    "acceptTermsAndConditions": "Please accept the Terms & Conditions and Privacy Policy to proceed.",
+    "notification": "Notification",
+    "releaseNotification": "This e-Service will be released soon.",
+    "advertisement": "Advertisement",
+    "advertisementMessage": "In order to place your advertisement here\nPlease contact:",
+    "close": "CLOSE",
+    "newsFeeds": "NEWS FEEDS",
+    "southAfricanNews": "South African Government News",
+    "deleteAccountDrawerTitle": "Account Management",
+    "deleteAccountDialogTitle": "REMOVE ACCOUNT?",
+    "deleteAccountDialogBody": "ARE YOU SURE YOU WANT TO REMOVE YOUR ACCOUNT?",
+    "deleteAccountSuccessServerMessage": "User account has been removed.",
+    "deleteAccountFailedServerMessage": "User account could not be removed.",
+    "removeAccount": "ACCOUNT MANAGEMENT",
+    "accountSuspension": "Suspend",
+    "accountRemoval": "Remove",
+    "suspensionMessage": "When you suspend your account, you'll have the option to reactivate it later and resume from where you left off.",
+    "removalMessage": "When you remove your account, it will be permanently deleted and cannot be recovered.",
+    "consentMessage": "Before proceeding, please note that suspending your account will temporarily disable access, but your data will remain intact for reactivation later. On the other hand, removing your account will result in the permanent deletion of all associated data. Please confirm your choice above after considering these options.",
+    "consentAcknowledge": "I acknowledge the consequences of my choice.",
+    "proceed": "PROCEED",
+    "favorites": "Favorites",
+    "kZneLicense": "Ezemvelo KZN Wildlife",
+    "fsEpermit": "Free State Economic, Small Business Development, Tourism and Environmental Affairs",
+    "ecEpermit": "Eastern Cape Department of Economic Development, Environmental Affairs and Tourism",
+    "limpopoEpermit": "Limpopo Economic Development, Environment and Tourism",
+    "rehab": "Rehab",
+    "fsEcomplaint": "Free State Economic, Small Business Development, Tourism and Environmental Affairs",
+    "nols": "National Online Learning System (NOLS)",
+    "ltsm": "LTSM",
+    "sitaRecruitment": "SITA Recruitment Citizen",
+    "kznRecruitment": "KZN Provincial Government e-Recruitment Vacancies - S'THESHA WAYA WAYA",
+    "pea": "Private Employment Agency (PEA)",
+    "faq": "Frequently Asked Questions",
+    "faqQuestionOne": "1. Which services are offered by the e-services application?",
+    "faqQuestionTwo": "2.How do I create an account on the e-services app?",
+    "faqQuestionThree": "3. How do I navigate through the different sections of the app?",
+    "faqQuestionFour": "4. Is there a customer support team available to assist users with any issues?",
+    "faqAnswerOne": "The e-services app gives users access to a variety of government services, such as completing forms or applications, obtaining public data, making appointments through contact, and applying for permits or licenses.",
+    "faqAnswerTwo": "Open the app and search for the \"Sign Up\" or \"Register\" option to create an account. Enter your contact details, including name, phone number, and email address, by following instructions. You will usually receive a verification email or SMS to finish the registration process when you have submitted the required details.",
+    "faqAnswerThree": "The app typically includes a navigation bar or choice that makes it easy to access different service areas or categories. Either swipe or press the categories to view the many e-service alternatives in order to access the navigation options. You can select the service category you would like to learn more about once you're there.",
+    "faqAnswerFour": "Yes, a customer support team is typically accessible to help consumers with any queries or problems they could run into when using the application's features. Customer service is normally available via contact us option, including phone and email.",
+    "reports": "Reports",
+    "employmentAndLabour": "EMPLOYMENT & LABOUR"
+}

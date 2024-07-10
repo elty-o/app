@@ -1,0 +1,357 @@
+{
+    "@@locale": "ts",
+    "trending": "OKUQHUBEKAYO",
+    "@trending": {
+        "description": "IiNkonzo ze-e ezithandwayo"
+    },
+    "latest": "YAMVA",
+    "@latest": {
+        "description": "IiNkonzo ze-e zamva nje"
+    },
+    "drawer_not_logged_in": "Awungenanga",
+    "@drawer_not_logged_in": {
+        "description": "Nceda ungene"
+    },
+    "contact": "Qhagamshelana",
+    "@contact": {
+        "description": "Iinombolo zoqhagamshelwano"
+    },
+    "news_feeds": "Ukutya kweendaba",
+    "@news_feeds": {
+        "description": "Fumana iindaba zamva nje"
+    },
+    "legal_documents": "Amaxwebhu asemthethweni",
+    "@legal_documents": {
+        "description": "Funda amaxwebhu asemthethweni"
+    },
+    "feedback": "Ingxelo",
+    "@feedback": {
+        "description": "Sinike ingxelo malunga namava akho"
+    },
+    "settings": "Iisetingi",
+    "@settings": {
+        "description": "Iisetingi"
+    },
+    "login": "Ngema",
+    "@login": {
+        "description": "Ngema"
+    },
+    "logout": "Phuma",
+    "@logout": {
+        "description": "Phuma"
+    },
+    "about_us": "Ngathi",
+    "@about_us": {
+        "description": "Ngathi"
+    },
+    "about_us_legal_documents": "AMAPHEPHA OMTHETHO",
+    "@about_us_legal_documents": {
+        "description": "Amaxwebhu asemthethweni"
+    },
+    "about_us_services_privacy_policy": "Umgaqo-nkqubo waBucala weeNkonzo ze-e",
+    "@about_us_services_privacy_policy": {
+        "description": "Umgaqo-nkqubo waBucala weeNkonzo ze-e"
+    },
+    "about_us_terms_and_conditions": "UMgaqo neMiqathango",
+    "@about_us_terms_and_conditions": {
+        "description": "UMgaqo neMiqathango"
+    },
+    "about_us_paia": "Ukukhuthazwa koFikelelo kuLwazi",
+    "@about_us_paia": {
+        "description": "Ukukhuthazwa koFikelelo kuLwazi"
+    },
+    "about_us_sita_privacy": "Umgaqo-nkqubo waBucala we-SITA",
+    "@about_us_sita_privacy": {
+        "description": "Umgaqo-nkqubo waBucala we-SITA"
+    },
+    "home": "Ekhaya",
+    "@home": {
+        "description": "Ekhaya"
+    },
+    "categories": "Iindidi",
+    "@categories": {
+        "description": "Iindidi"
+    },
+    "about_us_header": "NGATHI",
+    "@about_use_header": {
+        "description": "NGATHI"
+    },
+    "about_us_content_header": "Ukwazisa nge-app ye-e-Services yaseMzantsi Afrika - isango lakho ledijithali lothethathethwano norhulumente olungenamthungo!",
+    "about_us_paragraph_one": "I-app ye-e-Services yaseMzantsi Afrika inombono wekamva apho wonke ummi afumana iinkonzo ezigqibeleleyo, ezisebenzayo, nezilungiselelwe umntu ezandleni zabo. ",
+    "about_us_paragraph_two": "Siyavuya ukwazisa ukuqaliswa koluhlu lwethu lwangoku lweenkonzo, ezibandakanya ukuzalwa",
+    "news_feeds_header": "IINDABA ZOKUTYA",
+    "@news_feeds_header": {
+        "description": "Ukutya kweendaba"
+    },
+    "news_feeds_error": "Akukho datha ikhoyo",
+    "@news_feeds_error": {
+        "description": "Akukho datha ikhoyo"
+    },
+    "not_logged_in": "Awungenanga",
+    "@not_logged_in": {
+        "description": "Awungenanga"
+    },
+    "contact_us_header": "QHAGAMSHELANA NATHI",
+    "@contact_us_header": {
+        "description": "Qhagamshelana nathi"
+    },
+    "emergency_contact_us_header": "UQHAGAMSHELWANO LIKAXAKEKA",
+    "@emergency_contact_us_header": {
+        "description": "Abafowunelwa bexesha likaxakeka"
+    },
+    "e_services_phone": "Ifowuni",
+    "@e_services_phone": {
+        "description": "Ifowuni"
+    },
+    "e_services_email": "I-imeyile",
+    "@e_services_email": {
+        "description": "I-imeyile"
+    },
+    "police": "Mapolisa",
+    "@police": {
+        "description": "Mapolisa"
+    },
+    "ambulance": "Inqwelo yezigulana",
+    "@ambulance": {
+        "description": "Inqwelo yezigulana"
+    },
+    "fire_brigade": "Abacimi mlilo",
+    "@fire_brigade": {
+        "description": "Abacimi mlilo"
+    },
+    "satisfaction_survey": "UPHANDO LOKWANELISEKA",
+    "@satisfaction_survey": {
+        "description": "UVavanyo loKwaneliseka"
+    },
+    "q_one": "Q1: Ungawakala njani amava akho okuqala ngokujonga ujongano lweapp?",
+    "@q_one": {
+        "description": "Ungawakala njani amava akho okuqala ngokujonga ujongano lwe-app?"
+    },
+    "q_two": "I-Q2: Uziva uzithembe kangakanani kubuchule bakho bokusebenzisa iimpawu zosetyenziso ngokufanelekileyo?",
+    "@q_two": {
+        "description": "Uziva uzithembe kangakanani kukwazi kwakho ukusebenzisa iifitsha ze-app ngempumelelo?"
+    },
+    "q_three": "Q3: Lilonke, waneliseke kangakanani ngokusebenza kwe-app kunye nokuphendula?",
+    "@q_three": {
+        "description": "Lilonke, waneliseke kangakanani kukusebenza kunye nokuphendula kwe-app?"
+    },
+    "q_four": "I-Q4: Ingaba ufumanisa kangakanani ukusebenza kwe-app enembile kwaye kulula ukuyiqonda?",
+    "@q_four": {
+        "description": "Ingaba ufumanisa kangakanani usetyenziso lweapps esebenzayo kwaye kulula ukuyiqonda?"
+    },
+    "q_five": "Q5: Ungakanani amathuba okuba ucebise le app kwabanye ngokusekwe kumava akho?",
+    "@q_five": {
+        "description": "Ulindeleke kangakanani ukuba ucebise le app kwabanye ngokusekelwe kumava akho?"
+    },
+    "quite_confusing": "Iyabhidisa",
+    "a_bit_challenging": "Kunzima kancinci",
+    "fairly_intuitive": "I-intuitive ngokufanelekileyo",
+    "extremely_user_friendly": "Isebenziseka lula kakhulu",
+    "not_very_confident": "Andiqinisekanga kakhulu",
+    "somewhat_confident": "Ukuzithemba noko",
+    "moderately_confident": "Ukuzithemba ngokuphakathi",
+    "very_confident": "Ukuzithemba kakhulu",
+    "very_dissatisfied": "Andanelisekanga kakhulu",
+    "somewhat_dissatisfied": "Andanelisekanga noko",
+    "fairly_satisfied": "Waneliseke ngokufanelekileyo",
+    "extremely_satisfied": "Waneliseke kakhulu",
+    "not_intuitive_at_all": "Ayinangqiqo kwaphela",
+    "somewhat_intuitive": "Iyaqondakala kancinci",
+    "quite_intuitive": "Inengqondo kakhulu",
+    "very_intuitive": "Inengqondo kakhulu",
+    "not_likely_at_all": "Akunakwenzeka konke konke",
+    "somewhat_likely": "Kunokwenzeka ukuba",
+    "quite_likely": "Ngokuqinisekileyo",
+    "very_likely": "Inokwenzeka kakhulu",
+    "comments": "Amagqabantshintshi",
+    "btn_summit": "NGENISA",
+    "btn_cancel": "RHOXA",
+    "btn_login": "NGEMA",
+    "btn_logout": "PHUMA",
+    "btn_register": "BHALISA",
+    "btn_username": "USERNAME",
+    "btn_password": "INOMBOLO YOKUVULA",
+    "btn_continue": "QHUBEKA",
+    "settings_header": "IISETHINGI",
+    "@settings_header": {
+        "description": "Iisetingi"
+    },
+    "survey_submitted_successfully": "Uvavanyo luthunyelwe ngempumelelo",
+    "survey_submitted_failed": "Nceda ugcwalise yonke imibuzo",
+    "categories_title": "IINDIDI",
+    "@categories_title": {
+        "description": "Iindidi"
+    },
+    "service_one": "UKUZALWA",
+    "service_two": "IMEKO",
+    "service_three": "EZOLIMO",
+    "service_four": "IMPILO",
+    "service_five": "UKUKHUSELA ABATHENGI",
+    "service_six": "IMFUNDO",
+    "agriculture_land": "Ezolimo",
+    "authentication": "Uqinisekiso",
+    "enter_username": "Ngenisa igama lakho lomsebenzisi",
+    "login_error": "Igama lomsebenzisi kunye negama lokugqitha azinakungabi nanto",
+    "username": "Igama lomsebenzisi",
+    "password": "Inombolo yokuvula",
+    "enter_password": "Faka igama lokugqithisa lakho",
+    "login_header": "NGEMA",
+    "cancel": "RHOXA",
+    "land_services": "Iinkonzo zoMhlaba",
+    "birth_and_parenting": "Ukuzalwa Nokukhulisa",
+    "prenatal_care": "Ukhathalelo lwangaphambi kokubeleka",
+    "paternity_test": "Uvavanyo lobutata",
+    "child_immunisation": "Ukugonywa komntwana",
+    "consumer_protection": "Ukhuseleko lwabathengi",
+    "sita_complaints": "Izikhalazo ze-SITA",
+    "education": "Imfundo",
+    "dhet_exam_queries": "Imibuzo ye-DHET Exam",
+    "fs_school_of_nursing": "Isikolo saseFreyistata soMongikazi",
+    "environment": "Okusingqongileyo",
+    "department_of_forestry_fisheries_and_the_environment": "ISebe lezamaHlathi, ukuLoba nokusiNgqongileyo",
+    "health": "Impilo",
+    "free_state_school_of_nursing": "Isikolo saseFreyistata soMongikazi",
+    "henrietta_stockdale_nursing_college": "Henrietta Stockdale Nursing College",
+    "enterOtpLabel": "Ngena i-OTP",
+    "confirmOtpButton": "QINISEKISA i-OTP",
+    "resendOtpButton": "Phinda uthumele i-OTP",
+    "otpEmptyErrorMessage": "Nceda ngenisa inombolo yakho ye-opp.",
+    "resendOtpErrorMessage": "Ayikwazanga ukuthumela kwakhona i-op, nceda uzame kwakhona.",
+    "appBarTitle": "INGABA UYILIBELE IPHASIWEDI",
+    "emailInputLabel": "I-imeyile",
+    "emailEmptyErrorMessage": "Nceda ngenisa i-imeyile yakho.",
+    "emailInvalidFormatErrorMessage": "Nceda ngenisa i-imeyile esebenzayo.",
+    "resetPasswordButton": "PHINDISA IPASWEDI",
+    "cancelButton": "RHOXA",
+    "passwordResetEmailSentMessage": "I-imeyile yokusetha kwakhona igama lokugqithisa ithunyelwe.",
+    "wrongPasswordErrorMessage": "Iphasiwedi engalunganga",
+    "idNumberInputLabel": "Inombolo yesazisi",
+    "idNumberEmptyErrorMessage": "Nceda ufake inombolo yakho yesazisi.",
+    "cellphoneInputLabel": "Imfonomfono",
+    "cellphoneEmptyErrorMessage": "Nceda ufake inombolo yakho yeselula.",
+    "systemErrorMessage": "Impazamo yenkqubo: ",
+    "idNumberAlreadyExistErrorMessage": "Inombolo yesazisi sele ikhona.",
+    "cellphoneAlreadyExistErrorMessage": "Iselfowuni sele ikhona.",
+    "emailAlreadyExistErrorMessage": "Idilesi ye-imeyile sele ikhona.",
+    "unableToRegisterErrorMessage": "Asikwazi ukukubhalisa, nceda uqhagamshelane neqela lenkxaso.",
+    "otpDoesNotMatchMessage": "I-Otp ayihambelani.",
+    "loginAppBarTitle": "NGEMA",
+    "usernameInputLabel": "Igama lomsebenzisi",
+    "usernameRequiredErrorMessage": "Igama lomsebenzisi liyafuneka",
+    "passwordInputLabel": "Inombolo yokuvula",
+    "passwordRequiredErrorMessage": "Igama lokugqithisa liyafuneka",
+    "loginButton": "NGEMA",
+    "registerButton": "BHALISA",
+    "forgotUsernameText": "Igama lomsebenzisi",
+    "forgotPasswordText": "Inombolo yokuvula",
+    "logoutTitle": "PHUMA",
+    "logoutMessage": "Enkosi ngokufikelela kwiinkonzo ze-e-Gov.\n",
+    "phoneText": "Ifowuni",
+    "emailText": "I-imeyile",
+    "logoutButtonText": "PHUMA",
+    "otpAppBarTitle": "UKUQINISEKISA USER",
+    "otpInputLabel": "Ngena i-OTP",
+    "submitButton": "NGENISA",
+    "updatePasswordAppBarTitle": "HLAZIYA IPASWEDI",
+    "currentPasswordLabel": "Iphasiwedi yangoku",
+    "newPasswordLabel": "Iphasiwedi entsha",
+    "confirmPasswordLabel": "Ngqina iphasiwedi",
+    "updateButton": "UHLAZIYO",
+    "passwordRequirementMessage": "Igama lokugqithisa kufuneka libe ngunobumba, ubuncinane, unobumba omnye, unobumba omncinci kunye nonobumba olulodwa",
+    "passwordMismatchMessage": "Amagama okugqithisa awahambelani",
+    "termsAndConditionsAppBarTitle": "IMIMMISELO NEMIQATHANGO",
+    "termsDescription": "Ngokubhalisa kunye nokubhalisa unako:",
+    "personalDashboard": "Jonga iDashboard yoBuqu",
+    "applyForServices": "Faka isicelo seeNkonzo ze-intanethi",
+    "termsAndConditionsText": "Ndiyavuma ukuba ndiyifundile iMigaqo neMiqathango",
+    "privacyPolicyText": "Ndiyavuma ukuba ndiyifundile iPolisi yaBucala",
+    "continueButton": "QHUBEKA",
+    "notCheckedMessage": "Nceda uvumelane nayo yomibini iMigaqo kunye neMiqathango kunye noMgaqo-nkqubo waBucala phambi kokuba uqhubeke",
+    "registrationAppBarTitle": "UKUBHALISA",
+    "requiredFieldError": "Kufuneka",
+    "invalidIdError": "Inombolo yesazisi ayisebenzi",
+    "idLengthError": "Inombolo yesazisi kufuneka ibe noonobumba abali-13 ubude",
+    "passwordMismatchError": "Amagama okugqithisa awahambelani",
+    "emailValidationError": "Ngenisa idilesi ye-imeyile esebenzayo",
+    "submitButtonText": "Bhalisa",
+    "passwordRequirements": "Igama lokugqithisa kufuneka liqulathe ialphanumeric, inombolo kunye noonobumba abakhethekileyo. ",
+    "resetPasswordTitle": "PHINDISA IPASWEDI",
+    "otpFieldLabel": "OTP",
+    "newPasswordFieldLabel": "Iphasiwedi entsha",
+    "confirmPasswordFieldLabel": "Ngqina iphasiwedi",
+    "resetPasswordActionLabel": "Lungisa Igama Lokugqithisa",
+    "resendOTPActionLabel": "Phinda uthumele i-OTP",
+    "resetPasswordRequirements": "Igama lokugqithisa kufuneka libe ngunobumba, ubuncinane, unobumba omnye,\nunobumba omncinci, kunye nonobumba olulodwa. ",
+    "passwordResetSuccessMessage": "Ukusetha kwakhona igama lokugqithisa kuphumelele.",
+    "errorMessagePrefix": "Kwenzeke impazamo: ",
+    "otpMismatchMessage": "I-OTP ayihambelani.",
+    "newPasswordsMismatchMessage": "Amagama okugqithisa amatsha awahambelani.",
+    "unableToRegisterMessage": "Asikwazi ukukubhalisa, nceda uqhagamshelane neqela lenkxaso.",
+    "unableToResetPasswordMessage": "Asikwazi ukuseta kwakhona igama eliyimfihlo, nceda uqhagamshelane neqela lenkxaso.",
+    "idNumberExistMessage": "Inombolo yesazisi sele ikhona.",
+    "cellphoneExistMessage": "Iselfowuni sele ikhona.",
+    "secondName": "Igama lesibini",
+    "thirdName": "Igama lesithathu",
+    "passportNumber": "Inombolo yePaspoti",
+    "landline": "Umnxeba wasekhaya",
+    "suburb": "Ihlomela ledolophu/ilokishi/ilali",
+    "firstName": "Igama lakho *",
+    "surname": "Ifani *",
+    "idNumber": "Inombolo yesazisi *",
+    "cellphone": "Inombolo yeSelfowuni *",
+    "email": "I-imeyile *",
+    "registrationTitle": "UKUBHALISA",
+    "emailExistMessage": "Idilesi ye-imeyile sele ikhona.",
+    "currentUsername": "Igama lakho lomsebenzisi langoku:\n",
+    "newUsernameInputLabel": "Igama Elitsha Lomsebenzisi",
+    "confirmNewUsernameInputLabel": "Qinisekisa igama lomsebenzisi",
+    "updateButtonLabel": "UHLAZIYO",
+    "cancelButtonLabel": "RHOXA",
+    "genderBasedViolence": "Madzolonga lama Sekeriweke eka Rimbewu",
+    "childLineSouthAfrica": "Child-line Afrika Dzonga",
+    "poisonControl": "Ku Lawula Chefu",
+    "acceptTermsAndConditions": "Hi kombela u amukela Mimpimanyeto",
+    "notification": "Xitiviso",
+    "releaseNotification": "E-Service leyi yi ta humesiwa ku nga ri khale.",
+    "advertisement": "Vunavetisi",
+    "advertisementMessage": "Leswaku u veka xinavetiso xa wena laha\n",
+    "close": "PFALA",
+    "newsFeeds": "SWIVUMBEKO SWA MAHUNGU",
+    "southAfricanNews": "Mahungu ya Mfumo wa Afrika Dzonga",
+    "deleteAccountDrawerTitle": "Vulawuri bya Tiakhawunti",
+    "deleteAccountDialogTitle": "SUSA Akhawunti?",
+    "deleteAccountDialogBody": "XANA WA TIYISE leswaku U LAVA KU SUSA AKHAUNTI YA WENA?",
+    "deleteAccountSuccessServerMessage": "Akhawunti ya mutirhisi yi susiwile.",
+    "deleteAccountFailedServerMessage": "Akhawunti ya mutirhisi a yi swi kotanga ku susiwa.",
+    "removeAccount": "VULAWURI BYA Akhawunti",
+    "accountSuspension": "Ku yimisa",
+    "accountRemoval": "Susa",
+    "suspensionMessage": "Loko u yimisa akhawunti ya wena, u ta va ni lunghelo ro yi tirhisa nakambe endzhaku ivi u tlhela u sungula laha u nga yima kona.",
+    "removalMessage": "Loko u susa akhawunti ya wena, yi ta susiwa hi laha ku nga heriki naswona a yi nge vuyiseriwi.",
+    "consentMessage": "Loko u nga si ya emahlweni, hi kombela u xiya leswaku ku yimisa akhawunti ya wena swi ta sivela ku nghena swa xinkarhana, kambe data ya wena yi ta tshama yi ri kona leswaku yi ta tirhisiwa nakambe endzhaku. ",
+    "consentAcknowledge": "Ndza pfumela vuyelo bya ku hlawula ka mina.",
+    "proceed": "HUNDZA",
+    "favorites": "Swilo leswi rhandzekaka",
+    "kZneLicense": "Ezemvelo KZN Swiharhi swa nhova",
+    "fsEpermit": "Free State Ikhonomi, Nhluvukiso wa Mabindzu Lamatsongo, Vupfhumba na Timhaka ta Ntivo-mbango",
+    "ecEpermit": "Ndzawulo ya Nhluvukiso wa Ikhonomi, Timhaka ta Ntivo-mbango na Vupfhumba bya Kapa-Vuxa",
+    "limpopoEpermit": "Limpopo Nhluvukiso wa Ikhonomi, Ntivo-mbango na Vupfhumba",
+    "rehab": "Rehab",
+    "fsEcomplaint": "Free State Ikhonomi, Nhluvukiso wa Mabindzu Lamatsongo, Vupfhumba na Timhaka ta Ntivo-mbango",
+    "nols": "Sisiteme ya Rixaka ya Dyondzo ya le ka Inthanete (NOLS) .",
+    "ltsm": "LTSM",
+    "sitaRecruitment": "Muakatiko wa ku Thoriwa ka SITA",
+    "kznRecruitment": "KZN Mfumo wa Xifundzankulu e-Recruitment Swivandla - S'THESHA WAYA WAYA",
+    "pea": "Ejensi ya Ntirho ya Phurayivhete (PEA) .",
+    "faq": "Swivutiso Leswi Vutisiwaka Nkarhi Na Nkarhi",
+    "faqQuestionOne": "1. Hi yihi vukorhokeri lebyi nyikiwaka hi xitirhisiwa xa vukorhokeri bya xielekitironiki?",
+    "faqQuestionTwo": "2.Ndzi nga endla njhani account eka e-services app?",
+    "faqQuestionThree": "3. Xana ndzi swi famba njhani eka swiyenge swo hambana-hambana swa app?",
+    "faqQuestionFour": "4. Xana ku na ntlawa wa nseketelo wa vaxavi lowu kumekaka ku pfuna vatirhisi eka timhaka tihi na tihi?",
+    "faqAnswerOne": "App ya vukorhokeri bya xielekitironiki yi nyika vatirhisi mfikelelo eka vukorhokeri byo hambana bya mfumo, ku fana na ku tata tifomo kumbe swikombelo, ku kuma datha ya mani na mani, ku endla ku thoriwa hi ku tihlanganisa, na ku endla swikombelo swa mpfumelelo kumbe tilayisense.",
+    "faqAnswerTwo": "Pfula app u lavisisa \"Sign Up\" kumbe \"Register\" option ku endla account. ",
+    "faqAnswerThree": "Hi ntolovelo app yi katsa barhi yo fambafamba kumbe ku hlawula loku endlaka leswaku swi olova ku fikelela tindhawu to hambana ta vukorhokeri kumbe swiyenge. ",
+    "faqAnswerFour": "Ina, ntlawa wa nseketelo wa vaxavi hi ntolovelo wa fikeleleka ku pfuna vatirhisi hi swivutiso swihi na swihi kumbe swiphiqo leswi va nga hlanganaka na swona loko va tirhisa swihlawulekisi swa xitirhisiwa. ",
+    "reports": "Swiviko",
+    "employmentAndLabour": "NTIRHO & NTIRHO"
+}

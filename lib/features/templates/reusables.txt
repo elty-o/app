@@ -1,0 +1,12 @@
+//SNACK BARS
+final snackBar = SnackBar(
+        backgroundColor: Colors.green,
+        content: Text('Profile has been updated successfully.'),
+        duration: Duration(seconds: 3),
+      );
+
+      ScaffoldMessenger.of(context).showSnackBar(snackBar);
+
+      Future.delayed(snackBar.duration, () {
+        Navigator.pushNamedAndRemoveUntil(context, '/', (route) => false);
+      });

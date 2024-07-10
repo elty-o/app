@@ -1,0 +1,357 @@
+{
+    "@@locale": "gu",
+    "trending": "ટ્રેન્ડિંગ",
+    "@trending": {
+        "description": "ટ્રેન્ડિંગ ઈ-સેવાઓ"
+    },
+    "latest": "લેટેસ્ટ",
+    "@latest": {
+        "description": "નવીનતમ ઈ-સેવાઓ"
+    },
+    "drawer_not_logged_in": "તમે લૉગ ઇન નથી",
+    "@drawer_not_logged_in": {
+        "description": "કૃપા કરીને લૉગ ઇન કરો"
+    },
+    "contact": "સંપર્ક કરો",
+    "@contact": {
+        "description": "સંપર્ક નંબરો"
+    },
+    "news_feeds": "સમાચાર ફીડ્સ",
+    "@news_feeds": {
+        "description": "નવીનતમ સમાચાર મેળવો"
+    },
+    "legal_documents": "કાનૂની દસ્તાવેજો",
+    "@legal_documents": {
+        "description": "કાનૂની દસ્તાવેજો વાંચો"
+    },
+    "feedback": "પ્રતિસાદ",
+    "@feedback": {
+        "description": "તમારા અનુભવ વિશે અમને પ્રતિસાદ આપો"
+    },
+    "settings": "સેટિંગ્સ",
+    "@settings": {
+        "description": "સેટિંગ્સ"
+    },
+    "login": "પ્રવેશ કરો",
+    "@login": {
+        "description": "પ્રવેશ કરો"
+    },
+    "logout": "લૉગ આઉટ",
+    "@logout": {
+        "description": "લૉગ આઉટ"
+    },
+    "about_us": "અમારા વિશે",
+    "@about_us": {
+        "description": "અમારા વિશે"
+    },
+    "about_us_legal_documents": "કાનૂની દસ્તાવેજો",
+    "@about_us_legal_documents": {
+        "description": "કાનૂની દસ્તાવેજો"
+    },
+    "about_us_services_privacy_policy": "ઈ-સેવાઓ ગોપનીયતા નીતિ",
+    "@about_us_services_privacy_policy": {
+        "description": "ઈ-સેવાઓ ગોપનીયતા નીતિ"
+    },
+    "about_us_terms_and_conditions": "ટર્મ અને શરતો",
+    "@about_us_terms_and_conditions": {
+        "description": "ટર્મ અને શરતો"
+    },
+    "about_us_paia": "માહિતી મેન્યુઅલની ઍક્સેસનો પ્રચાર",
+    "@about_us_paia": {
+        "description": "માહિતી મેન્યુઅલની ઍક્સેસનો પ્રચાર"
+    },
+    "about_us_sita_privacy": "SITA ગોપનીયતા નીતિ",
+    "@about_us_sita_privacy": {
+        "description": "SITA ગોપનીયતા નીતિ"
+    },
+    "home": "ઘર",
+    "@home": {
+        "description": "ઘર"
+    },
+    "categories": "શ્રેણીઓ",
+    "@categories": {
+        "description": "શ્રેણીઓ"
+    },
+    "about_us_header": "અમારા વિશે",
+    "@about_use_header": {
+        "description": "અમારા વિશે"
+    },
+    "about_us_content_header": "પ્રસ્તુત છે દક્ષિણ આફ્રિકાની ઈ-સર્વિસીસ એપ્લિકેશન - સીમલેસ સરકારી જોડાણ માટે તમારું ડિજિટલ ગેટવે!",
+    "about_us_paragraph_one": "દક્ષિણ આફ્રિકાની ઈ-સર્વિસીસ એપ એવા ભવિષ્યની કલ્પના કરે છે જ્યાં દરેક નાગરિક તેમની આંગળીના ટેરવે સીમલેસ, કાર્યક્ષમ અને વ્યક્તિગત સરકારી સેવાઓનો અનુભવ કરે છે. ",
+    "about_us_paragraph_two": "અમે અમારી વર્તમાન લાઇનઅપ સેવાઓની રજૂઆતની જાહેરાત કરતાં ઉત્સાહિત છીએ, જેમાં જન્મનો સમાવેશ થાય છે",
+    "news_feeds_header": "સમાચાર ફીડ્સ",
+    "@news_feeds_header": {
+        "description": "સમાચાર ફીડ્સ"
+    },
+    "news_feeds_error": "કોઈ ડેટા ઉપલબ્ધ નથી",
+    "@news_feeds_error": {
+        "description": "કોઈ ડેટા ઉપલબ્ધ નથી"
+    },
+    "not_logged_in": "તમે લૉગ ઇન નથી",
+    "@not_logged_in": {
+        "description": "તમે લૉગ ઇન નથી"
+    },
+    "contact_us_header": "અમારો સંપર્ક કરો",
+    "@contact_us_header": {
+        "description": "અમારો સંપર્ક કરો"
+    },
+    "emergency_contact_us_header": "ઇમરજન્સી સંપર્ક",
+    "@emergency_contact_us_header": {
+        "description": "કટોકટી સંપર્કો"
+    },
+    "e_services_phone": "ફોન",
+    "@e_services_phone": {
+        "description": "ફોન"
+    },
+    "e_services_email": "ઈમેલ",
+    "@e_services_email": {
+        "description": "ઈમેલ"
+    },
+    "police": "પોલીસ",
+    "@police": {
+        "description": "પોલીસ"
+    },
+    "ambulance": "એમ્બ્યુલન્સ",
+    "@ambulance": {
+        "description": "એમ્બ્યુલન્સ"
+    },
+    "fire_brigade": "અગ્નિ શામક દળ",
+    "@fire_brigade": {
+        "description": "અગ્નિ શામક દળ"
+    },
+    "satisfaction_survey": "સંતોષ સર્વે",
+    "@satisfaction_survey": {
+        "description": "સંતોષ સર્વે"
+    },
+    "q_one": "Q1: તમે એપ્લિકેશનના ઇન્ટરફેસને નેવિગેટ કરવાના તમારા પ્રારંભિક અનુભવને કેવી રીતે રેટ કરશો?",
+    "@q_one": {
+        "description": "તમે એપ્લિકેશનના ઇન્ટરફેસને નેવિગેટ કરવાના તમારા પ્રારંભિક અનુભવને કેવી રીતે રેટ કરશો?"
+    },
+    "q_two": "Q2: એપ્લિકેશનની સુવિધાઓનો અસરકારક રીતે ઉપયોગ કરવાની તમારી ક્ષમતામાં તમને કેટલો વિશ્વાસ છે?",
+    "@q_two": {
+        "description": "એપ્લિકેશનની સુવિધાઓનો અસરકારક રીતે ઉપયોગ કરવાની તમારી ક્ષમતામાં તમને કેટલો વિશ્વાસ છે?"
+    },
+    "q_three": "Q3: એકંદરે, તમે એપ્લિકેશનના પ્રદર્શન અને પ્રતિભાવથી કેટલા સંતુષ્ટ છો?",
+    "@q_three": {
+        "description": "એકંદરે, તમે એપ્લિકેશનના પ્રદર્શન અને પ્રતિભાવથી કેટલા સંતુષ્ટ છો?"
+    },
+    "q_four": "Q4: તમને એપની કાર્યક્ષમતા કેટલી હદ સુધી સાહજિક અને સમજવામાં સરળ લાગે છે?",
+    "@q_four": {
+        "description": "તમને એપની કાર્યક્ષમતા કેટલી હદ સુધી સાહજિક અને સમજવામાં સરળ લાગે છે?"
+    },
+    "q_five": "પ્ર 5: તમારા અનુભવના આધારે તમે અન્ય લોકોને આ એપ્લિકેશનની ભલામણ કરો તેવી શક્યતા કેટલી છે?",
+    "@q_five": {
+        "description": "તમારા અનુભવના આધારે તમે અન્ય લોકોને આ એપ્લિકેશનની ભલામણ કરો તેવી શક્યતા કેટલી છે?"
+    },
+    "quite_confusing": "તદ્દન ગૂંચવણમાં મૂકે છે",
+    "a_bit_challenging": "થોડી પડકારજનક",
+    "fairly_intuitive": "એકદમ સાહજિક",
+    "extremely_user_friendly": "અત્યંત વપરાશકર્તા મૈત્રીપૂર્ણ",
+    "not_very_confident": "બહુ વિશ્વાસ નથી",
+    "somewhat_confident": "કંઈક અંશે આત્મવિશ્વાસ",
+    "moderately_confident": "સાધારણ આત્મવિશ્વાસ",
+    "very_confident": "અતિ આત્મવિશ્વાસુ",
+    "very_dissatisfied": "ખૂબ જ અસંતુષ્ટ",
+    "somewhat_dissatisfied": "કંઈક અંશે અસંતુષ્ટ",
+    "fairly_satisfied": "એકદમ સંતુષ્ટ",
+    "extremely_satisfied": "અત્યંત સંતુષ્ટ",
+    "not_intuitive_at_all": "સાહજિક બિલકુલ નથી",
+    "somewhat_intuitive": "કંઈક અંશે સાહજિક",
+    "quite_intuitive": "તદ્દન સાહજિક",
+    "very_intuitive": "ખૂબ જ સાહજિક",
+    "not_likely_at_all": "બિલકુલ શક્યતા નથી",
+    "somewhat_likely": "અંશે સંભવ છે",
+    "quite_likely": "તદ્દન શક્યતા",
+    "very_likely": "ખૂબ જ સંભવ છે",
+    "comments": "ટિપ્પણીઓ",
+    "btn_summit": "સબમિટ કરો",
+    "btn_cancel": "રદ કરો",
+    "btn_login": "પ્રવેશ કરો",
+    "btn_logout": "લૉગ આઉટ",
+    "btn_register": "નોંધણી કરો",
+    "btn_username": "USERNAME",
+    "btn_password": "પાસવર્ડ",
+    "btn_continue": "ચાલુ રાખો",
+    "settings_header": "સેટિંગ્સ",
+    "@settings_header": {
+        "description": "સેટિંગ્સ"
+    },
+    "survey_submitted_successfully": "સર્વે સફળતાપૂર્વક સબમિટ થયો",
+    "survey_submitted_failed": "કૃપા કરીને બધા પ્રશ્નો પૂર્ણ કરો",
+    "categories_title": "શ્રેણીઓ",
+    "@categories_title": {
+        "description": "શ્રેણીઓ"
+    },
+    "service_one": "જન્મ",
+    "service_two": "પર્યાવરણ",
+    "service_three": "એગ્રીકલ્ચર",
+    "service_four": "આરોગ્ય",
+    "service_five": "ગ્રાહક સુરક્ષા",
+    "service_six": "શિક્ષણ",
+    "agriculture_land": "કૃષિ",
+    "authentication": "પ્રમાણીકરણ",
+    "enter_username": "તમારું વપરાશકર્તા નામ દાખલ કરો",
+    "login_error": "વપરાશકર્તા નામ અને પાસવર્ડ ખાલી હોઈ શકતા નથી",
+    "username": "વપરાશકર્તા નામ",
+    "password": "પાસવર્ડ",
+    "enter_password": "તમારો પાસવર્ડ નાખો",
+    "login_header": "પ્રવેશ કરો",
+    "cancel": "રદ કરો",
+    "land_services": "જમીન સેવાઓ",
+    "birth_and_parenting": "જન્મ અને વાલીપણા",
+    "prenatal_care": "પ્રિનેટલ કેર",
+    "paternity_test": "પિતૃત્વ પરીક્ષણ",
+    "child_immunisation": "બાળ રસીકરણ",
+    "consumer_protection": "ગ્રાહક સુરક્ષા",
+    "sita_complaints": "SITA ફરિયાદો",
+    "education": "શિક્ષણ",
+    "dhet_exam_queries": "DHET પરીક્ષા પ્રશ્નો",
+    "fs_school_of_nursing": "ફ્રી સ્ટેટ સ્કૂલ ઓફ નર્સિંગ",
+    "environment": "પર્યાવરણ",
+    "department_of_forestry_fisheries_and_the_environment": "વનીકરણ, મત્સ્યોદ્યોગ અને પર્યાવરણ વિભાગ",
+    "health": "આરોગ્ય",
+    "free_state_school_of_nursing": "ફ્રી સ્ટેટ સ્કૂલ ઓફ નર્સિંગ",
+    "henrietta_stockdale_nursing_college": "હેનરીટા સ્ટોકડેલ નર્સિંગ કોલેજ",
+    "enterOtpLabel": "OTP દાખલ કરો",
+    "confirmOtpButton": "OTP કન્ફર્મ કરો",
+    "resendOtpButton": "OTP ફરીથી મોકલો",
+    "otpEmptyErrorMessage": "કૃપા કરીને તમારો otp નંબર દાખલ કરો.",
+    "resendOtpErrorMessage": "ઓટીપી ફરીથી મોકલી શકાયો નથી, કૃપા કરીને ફરી પ્રયાસ કરો.",
+    "appBarTitle": "પાસવર્ડ ભૂલી ગયો",
+    "emailInputLabel": "ઈમેલ",
+    "emailEmptyErrorMessage": "કૃપા કરીને તમારો ઈમેલ દાખલ કરો.",
+    "emailInvalidFormatErrorMessage": "કૃપા કરીને માન્ય ઇમેઇલ દાખલ કરો.",
+    "resetPasswordButton": "પાસવર્ડ રીસેટ કરો",
+    "cancelButton": "રદ કરો",
+    "passwordResetEmailSentMessage": "પાસવર્ડ રીસેટ ઈમેલ મોકલ્યો.",
+    "wrongPasswordErrorMessage": "ખોટો પાસવર્ડ",
+    "idNumberInputLabel": "ID નંબર",
+    "idNumberEmptyErrorMessage": "કૃપા કરીને તમારો આઈડી નંબર દાખલ કરો.",
+    "cellphoneInputLabel": "સેલફોન",
+    "cellphoneEmptyErrorMessage": "કૃપા કરીને તમારો સેલફોન નંબર દાખલ કરો.",
+    "systemErrorMessage": "સિસ્ટમમાં ભુલ: ",
+    "idNumberAlreadyExistErrorMessage": "ID નંબર પહેલેથી જ અસ્તિત્વમાં છે.",
+    "cellphoneAlreadyExistErrorMessage": "સેલફોન પહેલેથી અસ્તિત્વમાં છે.",
+    "emailAlreadyExistErrorMessage": "ઈમેલ સરનામું પહેલાથી જ અસ્તિત્વમાં છે.",
+    "unableToRegisterErrorMessage": "અમે તમારી નોંધણી કરવામાં અસમર્થ છીએ, કૃપા કરીને સપોર્ટ ટીમનો સંપર્ક કરો.",
+    "otpDoesNotMatchMessage": "Otp મેળ ખાતો નથી.",
+    "loginAppBarTitle": "પ્રવેશ કરો",
+    "usernameInputLabel": "વપરાશકર્તા નામ",
+    "usernameRequiredErrorMessage": "વપરાશકર્તા નામ જરૂરી છે",
+    "passwordInputLabel": "પાસવર્ડ",
+    "passwordRequiredErrorMessage": "પાસવર્ડ અનિવાર્ય છે",
+    "loginButton": "પ્રવેશ કરો",
+    "registerButton": "નોંધણી કરો",
+    "forgotUsernameText": "વપરાશકર્તા નામ",
+    "forgotPasswordText": "પાસવર્ડ",
+    "logoutTitle": "લૉગ આઉટ",
+    "logoutMessage": "e-Gov સેવાઓને ઍક્સેસ કરવા બદલ આભાર.\n",
+    "phoneText": "ફોન",
+    "emailText": "ઈમેલ",
+    "logoutButtonText": "લૉગ આઉટ",
+    "otpAppBarTitle": "વપરાશકર્તા ચકાસણી",
+    "otpInputLabel": "OTP દાખલ કરો",
+    "submitButton": "સબમિટ કરો",
+    "updatePasswordAppBarTitle": "પાસવર્ડ અપડેટ કરો",
+    "currentPasswordLabel": "અત્યારનો પાસવર્ડ",
+    "newPasswordLabel": "નવો પાસવર્ડ",
+    "confirmPasswordLabel": "પાસવર્ડની પુષ્ટિ કરો",
+    "updateButton": "અપડેટ કરો",
+    "passwordRequirementMessage": "પાસવર્ડ આલ્ફાન્યૂમેરિક હોવો જોઈએ, તેમાં ઓછામાં ઓછો એક અપરકેસ, લોઅરકેસ અને સ્પેશિયલ કેરેક્ટર હોવો જોઈએ",
+    "passwordMismatchMessage": "પાસવર્ડ મેળ ખાતા નથી",
+    "termsAndConditionsAppBarTitle": "નિયમો અને શરત",
+    "termsDescription": "નોંધણી અને સાઇન અપ કરીને તમે આ કરી શકો છો:",
+    "personalDashboard": "વ્યક્તિગત ડેશબોર્ડ જુઓ",
+    "applyForServices": "ઈ-સેવાઓ માટે અરજી કરો",
+    "termsAndConditionsText": "હું સંમત છું કે મેં નિયમો અને શરતો વાંચી છે",
+    "privacyPolicyText": "હું સંમત છું કે મેં ગોપનીયતા નીતિ વાંચી છે",
+    "continueButton": "ચાલુ રાખો",
+    "notCheckedMessage": "ચાલુ રાખતા પહેલા કૃપા કરીને નિયમો અને શરતો અને ગોપનીયતા નીતિ બંને સાથે સંમત થાઓ",
+    "registrationAppBarTitle": "નોંધણી",
+    "requiredFieldError": "જરૂરી છે",
+    "invalidIdError": "ID નંબર અમાન્ય",
+    "idLengthError": "ID નંબર 13 અક્ષર લાંબો હોવો જોઈએ",
+    "passwordMismatchError": "પાસવર્ડ મેળ ખાતા નથી",
+    "emailValidationError": "માન્ય ઇમેઇલ સરનામું દાખલ કરો",
+    "submitButtonText": "નોંધણી કરો",
+    "passwordRequirements": "પાસવર્ડમાં આલ્ફાન્યૂમેરિક, નંબર અને વિશેષ અક્ષરો હોવા જોઈએ. ",
+    "resetPasswordTitle": "પાસવર્ડ રીસેટ કરો",
+    "otpFieldLabel": "OTP",
+    "newPasswordFieldLabel": "નવો પાસવર્ડ",
+    "confirmPasswordFieldLabel": "પાસવર્ડની પુષ્ટિ કરો",
+    "resetPasswordActionLabel": "પાસવર્ડ રીસેટ કરો",
+    "resendOTPActionLabel": "OTP ફરીથી મોકલો",
+    "resetPasswordRequirements": "પાસવર્ડ આલ્ફાન્યૂમેરિક હોવો જોઈએ, તેમાં ઓછામાં ઓછો એક અપરકેસ,\nલોઅરકેસ અને વિશેષ અક્ષર હોવો જોઈએ. ",
+    "passwordResetSuccessMessage": "પાસવર્ડ રીસેટ સફળ.",
+    "errorMessagePrefix": "ભૂલ આવી: ",
+    "otpMismatchMessage": "OTP મેળ ખાતો નથી.",
+    "newPasswordsMismatchMessage": "નવા પાસવર્ડ મેળ ખાતા નથી.",
+    "unableToRegisterMessage": "અમે તમારી નોંધણી કરવામાં અસમર્થ છીએ, કૃપા કરીને સપોર્ટ ટીમનો સંપર્ક કરો.",
+    "unableToResetPasswordMessage": "અમે તમારો પાસવર્ડ રીસેટ કરવામાં અસમર્થ છીએ, કૃપા કરીને સપોર્ટ ટીમનો સંપર્ક કરો.",
+    "idNumberExistMessage": "ID નંબર પહેલેથી જ અસ્તિત્વમાં છે.",
+    "cellphoneExistMessage": "સેલફોન પહેલેથી જ અસ્તિત્વમાં છે.",
+    "secondName": "બીજું નામ",
+    "thirdName": "ત્રીજું નામ",
+    "passportNumber": "પાસપોર્ટ નંબર",
+    "landline": "લેન્ડલાઇન",
+    "suburb": "ઉપનગર/ટાઉનશીપ/ગામ",
+    "firstName": "પ્રથમ નામ *",
+    "surname": "અટક *",
+    "idNumber": "ID નંબર *",
+    "cellphone": "સેલ ફોન નંબર *",
+    "email": "ઈમેલ*",
+    "registrationTitle": "નોંધણી",
+    "emailExistMessage": "ઈમેલ સરનામું પહેલાથી જ અસ્તિત્વમાં છે.",
+    "currentUsername": "તમારું વર્તમાન વપરાશકર્તા નામ:\n",
+    "newUsernameInputLabel": "નવું વપરાશકર્તા નામ",
+    "confirmNewUsernameInputLabel": "વપરાશકર્તા નામની પુષ્ટિ કરો",
+    "updateButtonLabel": "અપડેટ કરો",
+    "cancelButtonLabel": "રદ કરો",
+    "genderBasedViolence": "લિંગ-આધારિત હિંસા",
+    "childLineSouthAfrica": "ચાઇલ્ડ-લાઇન દક્ષિણ આફ્રિકા",
+    "poisonControl": "ઝેર નિયંત્રણ",
+    "acceptTermsAndConditions": "કૃપા કરીને શરતો સ્વીકારો",
+    "notification": "સૂચના",
+    "releaseNotification": "આ ઈ-સેવા ટૂંક સમયમાં બહાર પાડવામાં આવશે.",
+    "advertisement": "જાહેરાત",
+    "advertisementMessage": "તમારી જાહેરાત અહીં મૂકવા માટે\n",
+    "close": "બંધ",
+    "newsFeeds": "સમાચાર ફીડ્સ",
+    "southAfricanNews": "દક્ષિણ આફ્રિકા સરકાર સમાચાર",
+    "deleteAccountDrawerTitle": "હિસાબી વય્વસ્થા",
+    "deleteAccountDialogTitle": "એકાઉન્ટ દૂર કરીએ?",
+    "deleteAccountDialogBody": "શું તમને ખાતરી છે કે તમે તમારું એકાઉન્ટ કાઢી નાખવા માંગો છો?",
+    "deleteAccountSuccessServerMessage": "વપરાશકર્તા ખાતું દૂર કરવામાં આવ્યું છે.",
+    "deleteAccountFailedServerMessage": "વપરાશકર્તા ખાતું દૂર કરી શકાયું નથી.",
+    "removeAccount": "હિસાબી વય્વસ્થા",
+    "accountSuspension": "સસ્પેન્ડ કરો",
+    "accountRemoval": "દૂર કરો",
+    "suspensionMessage": "જ્યારે તમે તમારું એકાઉન્ટ સસ્પેન્ડ કરો છો, ત્યારે તમારી પાસે તેને પછીથી ફરીથી સક્રિય કરવાનો અને તમે જ્યાંથી છોડ્યું હતું ત્યાંથી ફરી શરૂ કરવાનો વિકલ્પ હશે.",
+    "removalMessage": "જ્યારે તમે તમારું એકાઉન્ટ દૂર કરો છો, ત્યારે તે કાયમ માટે કાઢી નાખવામાં આવશે અને પુનઃપ્રાપ્ત કરી શકાશે નહીં.",
+    "consentMessage": "આગળ વધતા પહેલા, કૃપા કરીને નોંધો કે તમારા એકાઉન્ટને સસ્પેન્ડ કરવાથી અસ્થાયી રૂપે ઍક્સેસ અક્ષમ થઈ જશે, પરંતુ તમારો ડેટા પછીથી ફરીથી સક્રિય થવા માટે અકબંધ રહેશે. ",
+    "consentAcknowledge": "હું મારી પસંદગીના પરિણામોને સ્વીકારું છું.",
+    "proceed": "આગળ વધો",
+    "favorites": "મનપસંદ",
+    "kZneLicense": "Ezemvelo KZN વન્યજીવન",
+    "fsEpermit": "મફત રાજ્ય આર્થિક, નાના વેપાર વિકાસ, પ્રવાસન અને પર્યાવરણીય બાબતો",
+    "ecEpermit": "ઇસ્ટર્ન કેપ ડિપાર્ટમેન્ટ ઓફ ઇકોનોમિક ડેવલપમેન્ટ, એન્વાયર્નમેન્ટલ અફેર્સ એન્ડ ટુરીઝમ",
+    "limpopoEpermit": "લિમ્પોપો આર્થિક વિકાસ, પર્યાવરણ અને પ્રવાસન",
+    "rehab": "પુનર્વસન",
+    "fsEcomplaint": "મફત રાજ્ય આર્થિક, નાના વેપાર વિકાસ, પ્રવાસન અને પર્યાવરણીય બાબતો",
+    "nols": "નેશનલ ઓનલાઈન લર્નિંગ સિસ્ટમ (NOLS)",
+    "ltsm": "એલટીએસએમ",
+    "sitaRecruitment": "SITA ભરતી નાગરિક",
+    "kznRecruitment": "KZN પ્રાંતીય સરકાર ઈ-ભરતી ખાલી જગ્યાઓ - S'THESHA WAYA WAYA",
+    "pea": "ખાનગી રોજગાર એજન્સી (PEA)",
+    "faq": "વારંવાર પૂછાતા પ્રશ્નો",
+    "faqQuestionOne": "1. ઈ-સેવા એપ્લિકેશન દ્વારા કઈ સેવાઓ આપવામાં આવે છે?",
+    "faqQuestionTwo": "2. હું ઈ-સેવા એપ પર એકાઉન્ટ કેવી રીતે બનાવી શકું?",
+    "faqQuestionThree": "3. હું એપ્લિકેશનના વિવિધ વિભાગોમાં કેવી રીતે નેવિગેટ કરી શકું?",
+    "faqQuestionFour": "4. શું વપરાશકર્તાઓને કોઈપણ સમસ્યામાં મદદ કરવા માટે કોઈ ગ્રાહક સપોર્ટ ટીમ ઉપલબ્ધ છે?",
+    "faqAnswerOne": "ઈ-સર્વિસીસ એપ યુઝર્સને વિવિધ પ્રકારની સરકારી સેવાઓની ઍક્સેસ આપે છે, જેમ કે ફોર્મ અથવા અરજીઓ ભરવા, સાર્વજનિક ડેટા મેળવવા, સંપર્ક દ્વારા એપોઇન્ટમેન્ટ લેવા અને પરમિટ અથવા લાયસન્સ માટે અરજી કરવી.",
+    "faqAnswerTwo": "એપ્લિકેશન ખોલો અને એકાઉન્ટ બનાવવા માટે \"સાઇન અપ\" અથવા \"નોંધણી કરો\" વિકલ્પ શોધો. ",
+    "faqAnswerThree": "એપ્લિકેશનમાં સામાન્ય રીતે નેવિગેશન બાર અથવા પસંદગીનો સમાવેશ થાય છે જે વિવિધ સેવા વિસ્તારો અથવા શ્રેણીઓને ઍક્સેસ કરવાનું સરળ બનાવે છે. ",
+    "faqAnswerFour": "હા, ગ્રાહક સપોર્ટ ટીમ સામાન્ય રીતે ગ્રાહકોને એપ્લિકેશનની સુવિધાઓનો ઉપયોગ કરતી વખતે આવી શકે તેવા પ્રશ્નો અથવા સમસ્યાઓમાં મદદ કરવા માટે સુલભ છે. ",
+    "reports": "અહેવાલો",
+    "employmentAndLabour": "રોજગાર અને શ્રમ"
+}

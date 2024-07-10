@@ -1,0 +1,357 @@
+{
+    "@@locale": "zu",
+    "trending": "OKUthrendayo",
+    "@trending": {
+        "description": "Ama-e-Services athrendayo"
+    },
+    "latest": "KWAkamuva",
+    "@latest": {
+        "description": "Amasevisi e-e yakamuva"
+    },
+    "drawer_not_logged_in": "Awungenile",
+    "@drawer_not_logged_in": {
+        "description": "Sicela ungene ngemvume"
+    },
+    "contact": "Oxhumana naye",
+    "@contact": {
+        "description": "Izinombolo zoxhumana naye"
+    },
+    "news_feeds": "Izifunzo Zezindaba",
+    "@news_feeds": {
+        "description": "Thola izindaba zakamuva"
+    },
+    "legal_documents": "Imibhalo Yezomthetho",
+    "@legal_documents": {
+        "description": "Funda imibhalo yezomthetho"
+    },
+    "feedback": "Impendulo",
+    "@feedback": {
+        "description": "Sinikeze impendulo mayelana nolwazi lwakho"
+    },
+    "settings": "Izilungiselelo",
+    "@settings": {
+        "description": "Izilungiselelo"
+    },
+    "login": "Ngena ngemvume",
+    "@login": {
+        "description": "Ngena ngemvume"
+    },
+    "logout": "Phuma",
+    "@logout": {
+        "description": "Phuma"
+    },
+    "about_us": "Mayelana NATHI",
+    "@about_us": {
+        "description": "Mayelana NATHI"
+    },
+    "about_us_legal_documents": "IMIBHALO YOMTHETHO",
+    "@about_us_legal_documents": {
+        "description": "Imibhalo Yezomthetho"
+    },
+    "about_us_services_privacy_policy": "Inqubomgomo Yobumfihlo ye-e-Services",
+    "@about_us_services_privacy_policy": {
+        "description": "Inqubomgomo Yobumfihlo ye-e-Services"
+    },
+    "about_us_terms_and_conditions": "Imibandela Nemibandela",
+    "@about_us_terms_and_conditions": {
+        "description": "Imibandela Nemibandela"
+    },
+    "about_us_paia": "Imanuwali Yokuphromotha Ukufinyelela Olwazini",
+    "@about_us_paia": {
+        "description": "Imanuwali Yokuphromotha Ukufinyelela Olwazini"
+    },
+    "about_us_sita_privacy": "Inqubomgomo Yemfihlo ye-SITA",
+    "@about_us_sita_privacy": {
+        "description": "Inqubomgomo Yemfihlo ye-SITA"
+    },
+    "home": "Ikhaya",
+    "@home": {
+        "description": "Ikhaya"
+    },
+    "categories": "Izigaba",
+    "@categories": {
+        "description": "Izigaba"
+    },
+    "about_us_header": "MAYELANA NATHI",
+    "@about_use_header": {
+        "description": "MAYELANA NATHI"
+    },
+    "about_us_content_header": "Sethula uhlelo lokusebenza lwaseNingizimu Afrika lwe-e-Services - isango lakho ledijithali lokuxoxisana kukahulumeni okungenazihibe!",
+    "about_us_paragraph_one": "Uhlelo lokusebenza lwaseNingizimu Afrika lwe-e-Services lubona ngeso lengqondo ikusasa lapho sonke isakhamuzi sithola izinsiza zikahulumeni ezingenamthungo, eziphumelelayo, neziqondene nomuntu ezandleni zaso. ",
+    "about_us_paragraph_two": "Siyajabula ukumemezela ukwethulwa kohlelo lwethu lwamanje lwezinsizakalo, ezihlanganisa Ukuzalwa",
+    "news_feeds_header": "IZINDABA ZEZIMALI",
+    "@news_feeds_header": {
+        "description": "Izifunzo zezindaba"
+    },
+    "news_feeds_error": "Ayikho idatha etholakalayo",
+    "@news_feeds_error": {
+        "description": "Ayikho idatha etholakalayo"
+    },
+    "not_logged_in": "Awungenile",
+    "@not_logged_in": {
+        "description": "Awungenile"
+    },
+    "contact_us_header": "XHUMANA NATHI",
+    "@contact_us_header": {
+        "description": "Xhumana nathi"
+    },
+    "emergency_contact_us_header": "OKUXHUMANA NAYE OKUPHUTHUMAYO",
+    "@emergency_contact_us_header": {
+        "description": "Oxhumana Nabo Abezimo Eziphuthumayo"
+    },
+    "e_services_phone": "Ucingo",
+    "@e_services_phone": {
+        "description": "Ucingo"
+    },
+    "e_services_email": "I-imeyili",
+    "@e_services_email": {
+        "description": "I-imeyili"
+    },
+    "police": "Amaphoyisa",
+    "@police": {
+        "description": "Amaphoyisa"
+    },
+    "ambulance": "I-ambulensi",
+    "@ambulance": {
+        "description": "I-ambulensi"
+    },
+    "fire_brigade": "Abacimi bomlilo",
+    "@fire_brigade": {
+        "description": "Abacimi bomlilo"
+    },
+    "satisfaction_survey": "UCWANINGO LOKWANELISEKA",
+    "@satisfaction_survey": {
+        "description": "Ucwaningo Lokwaneliseka"
+    },
+    "q_one": "Q1: Ungakukala kanjani ukuzizwisa kwakho kokuqala ngokuzulazula kusixhumi esibonakalayo sohlelo lokusebenza?",
+    "@q_one": {
+        "description": "Ungalinganisela kanjani okuhlangenwe nakho kwakho kokuqala ngokuzulazula kusixhumi esibonakalayo sohlelo lokusebenza?"
+    },
+    "q_two": "Q2: Uzizwa uqiniseka kangakanani ngekhono lakho lokusebenzisa izici zohlelo lokusebenza ngempumelelo?",
+    "@q_two": {
+        "description": "Uzizwa uqiniseka kangakanani ngekhono lakho lokusebenzisa izici zohlelo lokusebenza ngempumelelo?"
+    },
+    "q_three": "Q3: Sekukonke, waneliseke kangakanani ngokusebenza kohlelo lokusebenza nokuphendula?",
+    "@q_three": {
+        "description": "Sekukonke, waneliseke kangakanani ngokusebenza nokuphendula kohlelo lokusebenza?"
+    },
+    "q_four": "Q4: Ingabe uthola ngezinga elingakanani ukusebenza kohlelo lokusebenza kunembile futhi kulula ukukuqonda?",
+    "@q_four": {
+        "description": "Ingabe uthola kangakanani ukusebenza kohlelo lokusebenza kunembile futhi kulula ukukuqonda?"
+    },
+    "q_five": "Q5: Mangakanani amathuba okuthi uncome lolu hlelo lokusebenza kwabanye ngokusekelwe kokuhlangenwe nakho kwakho?",
+    "@q_five": {
+        "description": "Mangakanani amathuba okuthi uncome lolu hlelo lokusebenza kwabanye ngokusekelwe kokuhlangenwe nakho kwakho?"
+    },
+    "quite_confusing": "Kuyadida impela",
+    "a_bit_challenging": "Kuyinselele kancane",
+    "fairly_intuitive": "Inembile",
+    "extremely_user_friendly": "Isebenziseka kalula",
+    "not_very_confident": "Angizethembi kakhulu",
+    "somewhat_confident": "Ngokuzethemba okuthile",
+    "moderately_confident": "Ngizethemba ngokumaphakathi",
+    "very_confident": "Ngizethemba kakhulu",
+    "very_dissatisfied": "Anganelisekile kakhulu",
+    "somewhat_dissatisfied": "Anganelisekile ngandlela-thile",
+    "fairly_satisfied": "Waneliseke kancane",
+    "extremely_satisfied": "Waneliseke ngokwedlulele",
+    "not_intuitive_at_all": "Akukhona enembile nhlobo",
+    "somewhat_intuitive": "Inengqondo ngandlela thize",
+    "quite_intuitive": "Inembile impela",
+    "very_intuitive": "Inembile kakhulu",
+    "not_likely_at_all": "Cishe akunakwenzeka nhlobo",
+    "somewhat_likely": "Cishe",
+    "quite_likely": "Cishe",
+    "very_likely": "Kungenzeka kakhulu",
+    "comments": "Amazwana",
+    "btn_summit": "THUMELA",
+    "btn_cancel": "KHANSELA",
+    "btn_login": "NGENA NGEMVUME",
+    "btn_logout": "PHUMA",
+    "btn_register": "BHALISA",
+    "btn_username": "USERNAME",
+    "btn_password": "IPHASWEDI",
+    "btn_continue": "QHUBEKA",
+    "settings_header": "IZILUNGISELELO",
+    "@settings_header": {
+        "description": "Izilungiselelo"
+    },
+    "survey_submitted_successfully": "Inhlolovo ihanjiswe ngempumelelo",
+    "survey_submitted_failed": "Sicela ugcwalise yonke imibuzo",
+    "categories_title": "IMIKHAKHA",
+    "@categories_title": {
+        "description": "Izigaba"
+    },
+    "service_one": "UKUZALWA",
+    "service_two": "EZIMO",
+    "service_three": "EZOLIMO",
+    "service_four": "IMPILO",
+    "service_five": "UKUVIKELA KWABATHENGI",
+    "service_six": "IMFUNDO",
+    "agriculture_land": "Ezolimo",
+    "authentication": "Ukuqinisekisa",
+    "enter_username": "Faka igama lakho lomsebenzisi",
+    "login_error": "Igama lomsebenzisi nephasiwedi azikwazi ukungabi nalutho",
+    "username": "Igama lomsebenzisi",
+    "password": "Iphasiwedi",
+    "enter_password": "Faka iphasiwedi yakho",
+    "login_header": "NGENA NGEMVUME",
+    "cancel": "KHANSELA",
+    "land_services": "Izinkonzo Zomhlaba",
+    "birth_and_parenting": "Ukuzalwa Nokukhulisa Umzali",
+    "prenatal_care": "Ukunakekelwa ngaphambi kokubeletha",
+    "paternity_test": "Ukuhlolwa kobaba",
+    "child_immunisation": "Ukugonywa kwengane",
+    "consumer_protection": "Ukuvikelwa kwabathengi",
+    "sita_complaints": "Izikhalazo ze-SITA",
+    "education": "Imfundo",
+    "dhet_exam_queries": "Imibuzo ye-DHET Exam",
+    "fs_school_of_nursing": "Isikole sabahlengikazi saseFree State",
+    "environment": "Imvelo",
+    "department_of_forestry_fisheries_and_the_environment": "Umnyango Wezamahlathi, Wezokudoba kanye Nezemvelo",
+    "health": "Impilo",
+    "free_state_school_of_nursing": "Isikole sabahlengikazi saseFree State",
+    "henrietta_stockdale_nursing_college": "I-Henrietta Stockdale Nursing College",
+    "enterOtpLabel": "Faka i-OTP",
+    "confirmOtpButton": "QINISEKISA I-OTP",
+    "resendOtpButton": "PHINDA UTHUMELE I-OTP",
+    "otpEmptyErrorMessage": "Sicela ufake inombolo yakho ye-otp.",
+    "resendOtpErrorMessage": "Ayikwazanga ukuthumela kabusha i-otp, sicela uzame futhi.",
+    "appBarTitle": "UKHOHLWE IPHASIWEDI",
+    "emailInputLabel": "I-imeyili",
+    "emailEmptyErrorMessage": "Sicela ufake i-imeyili yakho.",
+    "emailInvalidFormatErrorMessage": "Sicela ufake i-imeyili evumelekile.",
+    "resetPasswordButton": "SETHA KABUSHA IPHASIWEDI",
+    "cancelButton": "KHANSELA",
+    "passwordResetEmailSentMessage": "I-imeyili yokusetha kabusha iphasiwedi ithunyelwe.",
+    "wrongPasswordErrorMessage": "Iphasiwedi engalungile",
+    "idNumberInputLabel": "Inombolo kamazisi",
+    "idNumberEmptyErrorMessage": "Sicela ufake inombolo yakho kamazisi.",
+    "cellphoneInputLabel": "Umakhalekhukhwini",
+    "cellphoneEmptyErrorMessage": "Sicela ufake inombolo yakho kamakhalekhukhwini.",
+    "systemErrorMessage": "Iphutha lesistimu: ",
+    "idNumberAlreadyExistErrorMessage": "Inombolo ye-ID isivele ikhona.",
+    "cellphoneAlreadyExistErrorMessage": "Umakhalekhukhwini usuvele ukhona.",
+    "emailAlreadyExistErrorMessage": "Ikheli le-imeyili selivele likhona.",
+    "unableToRegisterErrorMessage": "Asikwazi ukukubhalisa, sicela uxhumane nethimba losekelo.",
+    "otpDoesNotMatchMessage": "I-Otp ayifani.",
+    "loginAppBarTitle": "NGENA NGEMVUME",
+    "usernameInputLabel": "Igama lomsebenzisi",
+    "usernameRequiredErrorMessage": "Igama lomsebenzisi liyadingeka",
+    "passwordInputLabel": "Iphasiwedi",
+    "passwordRequiredErrorMessage": "Iphasiwedi iyadingeka",
+    "loginButton": "NGENA NGEMVUME",
+    "registerButton": "BHALISA",
+    "forgotUsernameText": "Igama lomsebenzisi",
+    "forgotPasswordText": "Iphasiwedi",
+    "logoutTitle": "PHUMA",
+    "logoutMessage": "Siyabonga ngokufinyelela izinsiza ze-e-Gov.\n",
+    "phoneText": "Ucingo",
+    "emailText": "I-imeyili",
+    "logoutButtonText": "PHUMA",
+    "otpAppBarTitle": "UKUQINISEKISA KOMSEBENZISI",
+    "otpInputLabel": "Faka i-OTP",
+    "submitButton": "THUMELA",
+    "updatePasswordAppBarTitle": "BUYEKEZA IPHASWEDI",
+    "currentPasswordLabel": "I-password Yamanje",
+    "newPasswordLabel": "Iphasiwedi Entsha",
+    "confirmPasswordLabel": "Qinisekisa Iphasiwedi",
+    "updateButton": "BUYEKEZA",
+    "passwordRequirementMessage": "Igama lokungena kumele libe nezinhlamvu zamagama, okungenani libe nofeleba oyedwa, abancane nabakhethekile",
+    "passwordMismatchMessage": "Amagama-mfihlo awafani",
+    "termsAndConditionsAppBarTitle": "IMIBANDELA",
+    "termsDescription": "Ngokubhalisa nokubhalisa ungakwazi:",
+    "personalDashboard": "Buka Ideshibhodi Yomuntu Siqu",
+    "applyForServices": "Faka isicelo se-e-Services",
+    "termsAndConditionsText": "Ngiyavuma ukuthi ngiyifundile \nImigomo Nemibandela",
+    "privacyPolicyText": "Ngiyavuma ukuthi ngiyifundile \nInqubomgomo Yobumfihlo",
+    "continueButton": "QHUBEKA",
+    "notCheckedMessage": "Sicela wamukele kokubili Imigomo Nemibandela kanye Nenqubomgomo Yobumfihlo ngaphambi kokuqhubeka",
+    "registrationAppBarTitle": "UKUBHALISA",
+    "requiredFieldError": "Kudingeka",
+    "invalidIdError": "Inombolo kamazisi ayivumelekile",
+    "idLengthError": "Inombolo kamazisi kufanele ibe nezinhlamvu eziyi-13 ubude",
+    "passwordMismatchError": "Amagama-mfihlo awafani",
+    "emailValidationError": "Faka ikheli le-imeyili elivumelekile",
+    "submitButtonText": "Bhalisa",
+    "passwordRequirements": "Iphasiwedi kufanele ibe nezinhlamvu zamagama,\ninombolo nezinhlamvu ezikhethekile. ",
+    "resetPasswordTitle": "SETHA KABUSHA IPHASIWEDI",
+    "otpFieldLabel": "I-OTP",
+    "newPasswordFieldLabel": "Iphasiwedi Entsha",
+    "confirmPasswordFieldLabel": "Qinisekisa Iphasiwedi",
+    "resetPasswordActionLabel": "Setha kabusha Iphasiwedi",
+    "resendOTPActionLabel": "PHINDA UTHUMELE I-OTP",
+    "resetPasswordRequirements": "Iphasiwedi kumele ibe nezinombolo, okungenani ibe nofeleba oyedwa,\nomncane, nohlamvu olukhethekile. ",
+    "passwordResetSuccessMessage": "Ukusetha kabusha iphasiwedi kuphumelele.",
+    "errorMessagePrefix": "Kwenzeke iphutha: ",
+    "otpMismatchMessage": "I-OTP ayifani.",
+    "newPasswordsMismatchMessage": "Amaphasiwedi amasha awafani.",
+    "unableToRegisterMessage": "Asikwazi ukukubhalisa, sicela uxhumane nethimba losekelo.",
+    "unableToResetPasswordMessage": "Asikwazi ukusetha kabusha iphasiwedi yakho, sicela uxhumane nethimba losekelo.",
+    "idNumberExistMessage": "Inombolo ye-ID isivele ikhona.",
+    "cellphoneExistMessage": "Umakhalekhukhwini usuvele ukhona.",
+    "secondName": "Igama Lesibili",
+    "thirdName": "Igama Lesithathu",
+    "passportNumber": "Inombolo Yepasipoti",
+    "landline": "Ucingo Lwezintambo",
+    "suburb": "Indawo engaphansi kwedolobha/Ilokishi/Idolobhana",
+    "firstName": "Igama *",
+    "surname": "Isibongo*",
+    "idNumber": "Inombolo kamazisi *",
+    "cellphone": "Inombolo Yeselula *",
+    "email": "I-imeyili *",
+    "registrationTitle": "UKUBHALISA",
+    "emailExistMessage": "Ikheli le-imeyili selivele likhona.",
+    "currentUsername": "Igama lakho lomsebenzisi lamanje:\n",
+    "newUsernameInputLabel": "Igama lomsebenzisi elisha",
+    "confirmNewUsernameInputLabel": "Qinisekisa Igama lomsebenzisi",
+    "updateButtonLabel": "BUYEKEZA",
+    "cancelButtonLabel": "KHANSELA",
+    "genderBasedViolence": "Udlame Olusekelwe Ubulili",
+    "childLineSouthAfrica": "I-Childline South Africa",
+    "poisonControl": "Ukulawula Ubuthi",
+    "acceptTermsAndConditions": "Sicela wamukele Imigomo",
+    "notification": "Isaziso",
+    "releaseNotification": "Le-e-Service izokhishwa maduze.",
+    "advertisement": "Isikhangiso",
+    "advertisementMessage": "Ukuze ubeke isikhangiso sakho lapha\n",
+    "close": "VALA",
+    "newsFeeds": "IZINDABA ZEZIMALI",
+    "southAfricanNews": "Izindaba Zikahulumeni waseNingizimu Afrika",
+    "deleteAccountDrawerTitle": "Ukuphathwa Kwe-akhawunti",
+    "deleteAccountDialogTitle": "SUSA I-AKHAWUNTI?",
+    "deleteAccountDialogBody": "INGABE Uqinisekile ukuthi UFUNA UKUSUSA I-AKHAWUNTI YAKHO?",
+    "deleteAccountSuccessServerMessage": "I-akhawunti yomsebenzisi isusiwe.",
+    "deleteAccountFailedServerMessage": "I-akhawunti yomsebenzisi ayikwazanga ukususwa.",
+    "removeAccount": "UKUPHATHWA KWE-AKHAWUNTI",
+    "accountSuspension": "Misa okwesikhashana",
+    "accountRemoval": "Susa",
+    "suspensionMessage": "Uma umisa i-akhawunti yakho, uzoba nenketho yokuyivula futhi ngemva kwesikhathi futhi uqhubeke lapho ogcine khona.",
+    "removalMessage": "Uma ususa i-akhawunti yakho, izosuswa unomphela futhi ngeke ikwazi ukuphinda itholwe.",
+    "consentMessage": "Ngaphambi kokuthi uqhubeke, sicela uqaphele ukuthi ukumisa i-akhawunti yakho kuzovala ukufinyelela okwesikhashana, kodwa idatha yakho izohlala injalo ukuze iphinde isebenze ngokuhamba kwesikhathi. ",
+    "consentAcknowledge": "Ngiyayivuma imiphumela yokukhetha kwami.",
+    "proceed": "QHUBEKA",
+    "favorites": "Izintandokazi",
+    "kZneLicense": "Ezemvelo KZN Wildlife",
+    "fsEpermit": "EzoMnotho waseFreyistata, Ukuthuthukiswa Kwamabhizinisi Amancane, Ezokuvakasha Nezemvelo",
+    "ecEpermit": "UMnyango wezokuThuthukiswa koMnotho, ezeMvelo nezokuVakasha wase-Eastern Cape",
+    "limpopoEpermit": "Ukuthuthukiswa Komnotho, Imvelo kanye Nezokuvakasha eLimpopo",
+    "rehab": "I-Rehab",
+    "fsEcomplaint": "EzoMnotho waseFreyistata, Ukuthuthukiswa Kwamabhizinisi Amancane, Ezokuvakasha Nezemvelo",
+    "nols": "Uhlelo lukazwelonke lokufunda ku-inthanethi (NOLS)",
+    "ltsm": "I-LTSM",
+    "sitaRecruitment": "SITA Recruitment Citizen",
+    "kznRecruitment": "Izikhala Zokuqashwa Kukahulumeni Wesifundazwe SaKwaZulu-Natali - S'THESHA WAYA WAYA",
+    "pea": "I-Private Employment Agency (PEA)",
+    "faq": "imibuzo ejwayelekile ukubuzwa",
+    "faqQuestionOne": "1. Yiziphi izinsiza ezihlinzekwa yi-e-services application?",
+    "faqQuestionTwo": "2.Ngiyenza kanjani i-akhawunti kuhlelo lokusebenza lwe-e-services?",
+    "faqQuestionThree": "3. Ngihamba kanjani ezigabeni ezihlukene zohlelo lokusebenza?",
+    "faqQuestionFour": "4. Ingabe likhona ithimba lokusekela amakhasimende elitholakalayo ukusiza abasebenzisi nganoma yiziphi izinkinga?",
+    "faqAnswerOne": "Uhlelo lokusebenza lwe-e-services lunikeza abasebenzisi ukufinyelela kumasevisi ahlukahlukene kahulumeni, njengokugcwalisa amafomu noma izicelo, ukuthola idatha yomphakathi, ukwenza ama-aphoyintimenti ngokuthintana, nokufaka izicelo zezimvume noma amalayisense.",
+    "faqAnswerTwo": "Vula uhlelo lokusebenza bese usesha inketho ethi \"Bhalisa\" noma \"Bhalisa\" ukuze udale i-akhawunti. ",
+    "faqAnswerThree": "Uhlelo lokusebenza ngokuvamile luhlanganisa ibha yokuzulazula noma ukukhetha okwenza kube lula ukufinyelela izindawo zesevisi ezihlukile noma izigaba. ",
+    "faqAnswerFour": "Yebo, ithimba losekelo lwekhasimende ngokuvamile liyafinyeleleka ukuze lisize abathengi nganoma yimiphi imibuzo noma izinkinga abangahlangabezana nazo lapho besebenzisa izici zohlelo lokusebenza. ",
+    "reports": "Imibiko",
+    "employmentAndLabour": "UMSEBENZI KANYE NOMSEBENZI"
+}

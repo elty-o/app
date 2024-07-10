@@ -1,0 +1,357 @@
+{
+    "@@locale": "af",
+    "trending": "GEWILDSTE",
+    "@trending": {
+        "description": "Gewildste e-dienste"
+    },
+    "latest": "NUUTSTE",
+    "@latest": {
+        "description": "Nuutste e-Dienste"
+    },
+    "drawer_not_logged_in": "Jy is nie aangemeld nie",
+    "@drawer_not_logged_in": {
+        "description": "Meld asseblief aan"
+    },
+    "contact": "Kontak",
+    "@contact": {
+        "description": "Kontaknommers"
+    },
+    "news_feeds": "Nuusvoere",
+    "@news_feeds": {
+        "description": "Kry die jongste nuus"
+    },
+    "legal_documents": "Regsdokumente",
+    "@legal_documents": {
+        "description": "Lees die regsdokumente"
+    },
+    "feedback": "Terugvoer",
+    "@feedback": {
+        "description": "Gee ons terugvoer oor jou ervaring"
+    },
+    "settings": "Instellings",
+    "@settings": {
+        "description": "Instellings"
+    },
+    "login": "Teken aan",
+    "@login": {
+        "description": "Teken aan"
+    },
+    "logout": "Teken uit",
+    "@logout": {
+        "description": "Teken uit"
+    },
+    "about_us": "Oor ons",
+    "@about_us": {
+        "description": "Oor ons"
+    },
+    "about_us_legal_documents": "REGSDOKUMENTE",
+    "@about_us_legal_documents": {
+        "description": "Regsdokumente"
+    },
+    "about_us_services_privacy_policy": "e-Dienste se privaatheidsbeleid",
+    "@about_us_services_privacy_policy": {
+        "description": "e-Dienste se privaatheidsbeleid"
+    },
+    "about_us_terms_and_conditions": "Terme en Voorwaardes",
+    "@about_us_terms_and_conditions": {
+        "description": "Terme en Voorwaardes"
+    },
+    "about_us_paia": "Handleiding vir die bevordering van toegang tot inligting",
+    "@about_us_paia": {
+        "description": "Handleiding vir die bevordering van toegang tot inligting"
+    },
+    "about_us_sita_privacy": "SITA Privaatheidsbeleid",
+    "@about_us_sita_privacy": {
+        "description": "SITA Privaatheidsbeleid"
+    },
+    "home": "Tuis",
+    "@home": {
+        "description": "Tuis"
+    },
+    "categories": "Kategorieë",
+    "@categories": {
+        "description": "Kategorieë"
+    },
+    "about_us_header": "OOR ONS",
+    "@about_use_header": {
+        "description": "OOR ONS"
+    },
+    "about_us_content_header": "Stel die Suid-Afrikaanse e-Dienste-toepassing bekend - jou digitale poort na naatlose regeringsbetrokkenheid!",
+    "about_us_paragraph_one": "Die Suid-Afrikaanse e-Dienste-toepassing voorsien 'n toekoms waar elke burger naatlose, doeltreffende en persoonlike staatsdienste binne handbereik ervaar. ",
+    "about_us_paragraph_two": "Ons is opgewonde om die bekendstelling van ons huidige reeks dienste aan te kondig, wat geboorte insluit",
+    "news_feeds_header": "NUUSVOERE",
+    "@news_feeds_header": {
+        "description": "Nuus feeds"
+    },
+    "news_feeds_error": "Geen data beskikbaar nie",
+    "@news_feeds_error": {
+        "description": "Geen data beskikbaar nie"
+    },
+    "not_logged_in": "Jy is nie aangemeld nie",
+    "@not_logged_in": {
+        "description": "Jy is nie aangemeld nie"
+    },
+    "contact_us_header": "KONTAK ONS",
+    "@contact_us_header": {
+        "description": "Kontak Ons"
+    },
+    "emergency_contact_us_header": "NOOD KONTAK",
+    "@emergency_contact_us_header": {
+        "description": "Noodkontakte"
+    },
+    "e_services_phone": "Foon",
+    "@e_services_phone": {
+        "description": "Foon"
+    },
+    "e_services_email": "E-pos",
+    "@e_services_email": {
+        "description": "E-pos"
+    },
+    "police": "Polisie",
+    "@police": {
+        "description": "Polisie"
+    },
+    "ambulance": "Ambulans",
+    "@ambulance": {
+        "description": "Ambulans"
+    },
+    "fire_brigade": "Brandweer",
+    "@fire_brigade": {
+        "description": "Brandweer"
+    },
+    "satisfaction_survey": "TEVREDENHEIDSOPNAME",
+    "@satisfaction_survey": {
+        "description": "Tevredenheidsopname"
+    },
+    "q_one": "V1: Hoe sou jy jou aanvanklike ervaring met die navigasie van die toepassing se koppelvlak beoordeel?",
+    "@q_one": {
+        "description": "Hoe sou jy jou aanvanklike ervaring met die navigasie van die toepassing se koppelvlak beoordeel?"
+    },
+    "q_two": "V2: Hoe selfversekerd voel jy in jou vermoë om die toepassing se kenmerke effektief te gebruik?",
+    "@q_two": {
+        "description": "Hoe selfversekerd voel jy in jou vermoë om die toepassing se kenmerke effektief te gebruik?"
+    },
+    "q_three": "V3: In die algemeen, hoe tevrede is jy met die toepassing se werkverrigting en reaksie?",
+    "@q_three": {
+        "description": "In die algemeen, hoe tevrede is jy met die toepassing se werkverrigting en reaksie?"
+    },
+    "q_four": "V4: In watter mate vind jy die toepassing se funksies intuïtief en maklik om te verstaan?",
+    "@q_four": {
+        "description": "In watter mate vind jy die toepassing se funksies intuïtief en maklik om te verstaan?"
+    },
+    "q_five": "V5: Hoe waarskynlik is dit dat jy hierdie toepassing aan ander sal aanbeveel op grond van jou ervaring?",
+    "@q_five": {
+        "description": "Hoe waarskynlik is dit dat jy hierdie toepassing aan ander sal aanbeveel op grond van jou ervaring?"
+    },
+    "quite_confusing": "Nogal verwarrend",
+    "a_bit_challenging": "Bietjie uitdagend",
+    "fairly_intuitive": "Redelik intuïtief",
+    "extremely_user_friendly": "Uiters gebruikersvriendelik",
+    "not_very_confident": "Nie baie selfversekerd nie",
+    "somewhat_confident": "Ietwat selfversekerd",
+    "moderately_confident": "Matig selfversekerd",
+    "very_confident": "Baie selfversekerd",
+    "very_dissatisfied": "Baie ontevrede",
+    "somewhat_dissatisfied": "Ietwat ontevrede",
+    "fairly_satisfied": "Redelik tevrede",
+    "extremely_satisfied": "Uiters tevrede",
+    "not_intuitive_at_all": "Glad nie intuïtief nie",
+    "somewhat_intuitive": "Ietwat intuïtief",
+    "quite_intuitive": "Nogal intuïtief",
+    "very_intuitive": "Baie intuïtief",
+    "not_likely_at_all": "Glad nie waarskynlik nie",
+    "somewhat_likely": "Ietwat waarskynlik",
+    "quite_likely": "Heel waarskynlik",
+    "very_likely": "Baie waarskynlik",
+    "comments": "Kommentaar",
+    "btn_summit": "INDIEN",
+    "btn_cancel": "KANSELLEER",
+    "btn_login": "TEKEN AAN",
+    "btn_logout": "TEKEN UIT",
+    "btn_register": "REGISTREER",
+    "btn_username": "GEBRUIKERSNAAM",
+    "btn_password": "WAGWOORD",
+    "btn_continue": "GAAN VOORT",
+    "settings_header": "INSTELLINGS",
+    "@settings_header": {
+        "description": "Instellings"
+    },
+    "survey_submitted_successfully": "Opname suksesvol ingedien",
+    "survey_submitted_failed": "Voltooi asseblief alle vrae",
+    "categories_title": "KATEGORIEë",
+    "@categories_title": {
+        "description": "Kategorieë"
+    },
+    "service_one": "GEBOORTE",
+    "service_two": "OMGEWING",
+    "service_three": "LANDBOU",
+    "service_four": "GESONDHEID",
+    "service_five": "VERBRUIKERSBESKERMING",
+    "service_six": "ONDERWYS",
+    "agriculture_land": "Landbou",
+    "authentication": "Stawing",
+    "enter_username": "Voer jou gebruikersnaam in",
+    "login_error": "Gebruikersnaam en wagwoord kan nie leeg wees nie",
+    "username": "Gebruikersnaam",
+    "password": "Wagwoord",
+    "enter_password": "Sleutel jou wagwoord in",
+    "login_header": "TEKEN AAN",
+    "cancel": "KANSELLEER",
+    "land_services": "Gronddienste",
+    "birth_and_parenting": "Geboorte en ouerskap",
+    "prenatal_care": "Voorgeboortelike sorg",
+    "paternity_test": "Vaderskap toets",
+    "child_immunisation": "Kinder immunisering",
+    "consumer_protection": "Verbruikersbeskerming",
+    "sita_complaints": "SITA-klagtes",
+    "education": "Onderwys",
+    "dhet_exam_queries": "DHET Eksamenvrae",
+    "fs_school_of_nursing": "Vrystaat Skool vir Verpleegkunde",
+    "environment": "Omgewing",
+    "department_of_forestry_fisheries_and_the_environment": "Departement van Bosbou, Visserye en die Omgewing",
+    "health": "Gesondheid",
+    "free_state_school_of_nursing": "Vrystaat Skool vir Verpleegkunde",
+    "henrietta_stockdale_nursing_college": "Henrietta Stockdale Verpleegkollege",
+    "enterOtpLabel": "Voer OTP in",
+    "confirmOtpButton": "BEVESTIG OTP",
+    "resendOtpButton": "STUUR OTP WEER",
+    "otpEmptyErrorMessage": "Voer asseblief jou otp-nommer in.",
+    "resendOtpErrorMessage": "Kon nie 'n otp weer stuur nie, probeer asseblief weer.",
+    "appBarTitle": "WAGWOORD VERGEET",
+    "emailInputLabel": "E-pos",
+    "emailEmptyErrorMessage": "Voer asseblief jou e-posadres in.",
+    "emailInvalidFormatErrorMessage": "Verskaf asseblief 'n geldige e-pos adres.",
+    "resetPasswordButton": "HERSTEL WAGWOORD",
+    "cancelButton": "KANSELLEER",
+    "passwordResetEmailSentMessage": "Wagwoordterugstel-e-pos gestuur.",
+    "wrongPasswordErrorMessage": "Verkeerde wagwoord",
+    "idNumberInputLabel": "ID-nommer",
+    "idNumberEmptyErrorMessage": "Voer asseblief jou ID-nommer in.",
+    "cellphoneInputLabel": "Loopfoon",
+    "cellphoneEmptyErrorMessage": "Voer asseblief jou selfoonnommer in.",
+    "systemErrorMessage": "Sisteemfout: ",
+    "idNumberAlreadyExistErrorMessage": "ID-nommer bestaan ​​reeds.",
+    "cellphoneAlreadyExistErrorMessage": "Selfoon bestaan ​​reeds.",
+    "emailAlreadyExistErrorMessage": "E-posadres bestaan ​​reeds.",
+    "unableToRegisterErrorMessage": "Ons kan jou nie registreer nie, kontak asseblief die ondersteuningspan.",
+    "otpDoesNotMatchMessage": "OTP stem nie ooreen nie.",
+    "loginAppBarTitle": "TEKEN AAN",
+    "usernameInputLabel": "Gebruikersnaam",
+    "usernameRequiredErrorMessage": "Gebruikersnaam word vereis",
+    "passwordInputLabel": "Wagwoord",
+    "passwordRequiredErrorMessage": "Wagwoord word benodig",
+    "loginButton": "TEKEN AAN",
+    "registerButton": "REGISTREER",
+    "forgotUsernameText": "Gebruikersnaam",
+    "forgotPasswordText": "Wagwoord",
+    "logoutTitle": "TEKEN UIT",
+    "logoutMessage": "Dankie vir die toegang tot e-Gov-dienste.\n",
+    "phoneText": "Foon",
+    "emailText": "E-pos",
+    "logoutButtonText": "TEKEN UIT",
+    "otpAppBarTitle": "GEBRUIKER VERIFIKASIE",
+    "otpInputLabel": "Voer OTP in",
+    "submitButton": "INDIEN",
+    "updatePasswordAppBarTitle": "DATEER WAGWOORD OP",
+    "currentPasswordLabel": "huidige Sleutelwoord",
+    "newPasswordLabel": "Nuwe Wagwoord",
+    "confirmPasswordLabel": "Bevestig Wagwoord",
+    "updateButton": "OPDATEER",
+    "passwordRequirementMessage": "Wagwoord moet alfanumeries wees, ten minste een hoofletter, kleinletter en spesiale karakter bevat",
+    "passwordMismatchMessage": "Wagwoorde stem nie ooreen nie",
+    "termsAndConditionsAppBarTitle": "BEPALINGS EN VOORWAARDES",
+    "termsDescription": "Deur te registreer en in te teken kan jy:",
+    "personalDashboard": "Bekyk Persoonlike Dashboard",
+    "applyForServices": "Doen aansoek vir e-dienste",
+    "termsAndConditionsText": "Ek stem in dat ek die Bepalings en Voorwaardes gelees het",
+    "privacyPolicyText": "Ek stem in dat ek die Privaatheidsbeleid gelees het",
+    "continueButton": "GAAN VOORT",
+    "notCheckedMessage": "Stem asseblief in tot beide bepalings en voorwaardes en privaatheidsbeleid voordat u voortgaan",
+    "registrationAppBarTitle": "REGISTRASIE",
+    "requiredFieldError": "Vereis",
+    "invalidIdError": "ID-nommer ongeldig",
+    "idLengthError": "ID-nommer moet 13 karakters lank wees",
+    "passwordMismatchError": "Wagwoorde stem nie ooreen nie",
+    "emailValidationError": "Voer 'n geldige e-posadres in",
+    "submitButtonText": "Registreer",
+    "passwordRequirements": "Wagwoord moet alfanumeriese, nommer en spesiale karakters bevat. ",
+    "resetPasswordTitle": "HERSTEL WAGWOORD",
+    "otpFieldLabel": "OTP",
+    "newPasswordFieldLabel": "Nuwe Wagwoord",
+    "confirmPasswordFieldLabel": "Bevestig Wagwoord",
+    "resetPasswordActionLabel": "Herstel wagwoord",
+    "resendOTPActionLabel": "STUUR OTP WEER",
+    "resetPasswordRequirements": "Wagwoord moet alfanumeries wees, ten minste een hoofletter, kleinletter en spesiale karakter bevat. ",
+    "passwordResetSuccessMessage": "Wagwoordherstel suksesvol.",
+    "errorMessagePrefix": "Fout het ontstaan: ",
+    "otpMismatchMessage": "OTP stem nie ooreen nie.",
+    "newPasswordsMismatchMessage": "Nuwe wagwoorde stem nie ooreen nie.",
+    "unableToRegisterMessage": "Ons kan jou nie registreer nie, kontak asseblief die ondersteuningspan.",
+    "unableToResetPasswordMessage": "Ons kan nie jou wagwoord terugstel nie, kontak asseblief die ondersteuningspan.",
+    "idNumberExistMessage": "ID-nommer bestaan ​​reeds.",
+    "cellphoneExistMessage": "Selfoon bestaan ​​reeds.",
+    "secondName": "Tweede naam",
+    "thirdName": "Derde Naam",
+    "passportNumber": "Paspoortnommer",
+    "landline": "Landlyn",
+    "suburb": "Voorstad / Dorp / Dorp",
+    "firstName": "Eerste naam *",
+    "surname": "Van *",
+    "idNumber": "ID-nommer *",
+    "cellphone": "Selfoonnommer *",
+    "email": "E-pos *",
+    "registrationTitle": "REGISTRASIE",
+    "emailExistMessage": "E-posadres bestaan ​​reeds.",
+    "currentUsername": "Jou huidige gebruikersnaam:\n",
+    "newUsernameInputLabel": "Nuwe gebruikersnaam",
+    "confirmNewUsernameInputLabel": "Bevestig gebruikersnaam",
+    "updateButtonLabel": "OPDATEER",
+    "cancelButtonLabel": "KANSELLEER",
+    "genderBasedViolence": "Geslagsgebaseerde geweld",
+    "childLineSouthAfrica": "Kinderlyn Suid-Afrika",
+    "poisonControl": "Gifbeheer",
+    "acceptTermsAndConditions": "Aanvaar asseblief die Bepalings",
+    "notification": "Kennisgewing",
+    "releaseNotification": "Hierdie e-diens sal binnekort vrygestel word.",
+    "advertisement": "Advertensie",
+    "advertisementMessage": "Om jou advertensie hier te plaas\n",
+    "close": "NABY",
+    "newsFeeds": "NUUSVOERE",
+    "southAfricanNews": "Suid-Afrikaanse Regering Nuus",
+    "deleteAccountDrawerTitle": "Rekeningbestuur",
+    "deleteAccountDialogTitle": "VERWYDER REKENING?",
+    "deleteAccountDialogBody": "IS JY SEKER JY WIL JOU REKENING VERWYDER?",
+    "deleteAccountSuccessServerMessage": "Gebruikersrekening is verwyder.",
+    "deleteAccountFailedServerMessage": "Gebruikerrekening kon nie verwyder word nie.",
+    "removeAccount": "REKENINGBESTUUR",
+    "accountSuspension": "Opskort",
+    "accountRemoval": "Verwyder",
+    "suspensionMessage": "Wanneer jy jou rekening opskort, sal jy die opsie hê om dit later te heraktiveer en voort te gaan van waar jy opgehou het.",
+    "removalMessage": "Wanneer jy jou rekening verwyder, sal dit permanent uitgevee word en kan nie herwin word nie.",
+    "consentMessage": "Neem asseblief kennis dat die opskorting van jou rekening toegang tydelik sal deaktiveer voordat jy voortgaan, maar jou data sal ongeskonde bly vir heraktivering later. ",
+    "consentAcknowledge": "Ek erken die gevolge van my keuse.",
+    "proceed": "GAAN VOORT",
+    "favorites": "Gunstelinge",
+    "kZneLicense": "Ezemvelo KZN Wildlife",
+    "fsEpermit": "Vrystaat Ekonomiese, Kleinsakeontwikkeling, Toerisme en Omgewingsake",
+    "ecEpermit": "Oos-Kaapse departement van ekonomiese ontwikkeling, omgewingsake en toerisme",
+    "limpopoEpermit": "Limpopo Ekonomiese Ontwikkeling, Omgewing en Toerisme",
+    "rehab": "Rehabilitasie",
+    "fsEcomplaint": "Vrystaat Ekonomiese, Kleinsakeontwikkeling, Toerisme en Omgewingsake",
+    "nols": "Nasionale Aanlyn Leerstelsel (NOLS)",
+    "ltsm": "LTSM",
+    "sitaRecruitment": "SITA Werwing Burger",
+    "kznRecruitment": "KZN Provinsiale Regering e-Werwing Vakatures - S'THESHA WAYA WAYA",
+    "pea": "Private Employment Agency (PEA)",
+    "faq": "Gereelde Vrae",
+    "faqQuestionOne": "1. Watter dienste word deur die e-dienste-toepassing aangebied?",
+    "faqQuestionTwo": "2.Hoe skep ek 'n rekening op die e-dienste-toepassing?",
+    "faqQuestionThree": "3. Hoe navigeer ek deur die verskillende afdelings van die toepassing?",
+    "faqQuestionFour": "4. Is daar 'n kliëntediensspan beskikbaar om gebruikers met enige probleme te help?",
+    "faqAnswerOne": "Die e-dienste-toepassing gee gebruikers toegang tot 'n verskeidenheid regeringsdienste, soos die voltooiing van vorms of aansoeke, die verkryging van publieke data, die maak van afsprake deur kontak, en om aansoek te doen vir permitte of lisensies.",
+    "faqAnswerTwo": "Maak die toepassing oop en soek die opsie \"Sluit aan\" of \"Registreer\" om 'n rekening te skep. ",
+    "faqAnswerThree": "Die toepassing sluit gewoonlik 'n navigasiebalk of keuse in wat dit maklik maak om toegang tot verskillende diensareas of kategorieë te kry. ",
+    "faqAnswerFour": "Ja, 'n kliëntediensspan is tipies toeganklik om verbruikers te help met enige navrae of probleme wat hulle kan ondervind wanneer hulle die toepassing se kenmerke gebruik. ",
+    "reports": "Berigte",
+    "employmentAndLabour": "DIENS EN ARBEID"
+}
